@@ -1,0 +1,2341 @@
+[
+  {
+    "date": "2025-11-13",
+    "start_time": "6:30am",
+    "end_time": "7:30am",
+    "assignments": {
+      "Max Ghenis": {
+        "type": "booth",
+        "location": "Exhibit Booth"
+      },
+      "Pavel Makarchuk": {
+        "type": "booth",
+        "location": "Exhibit Booth"
+      },
+      "Daphne Hansell": {
+        "type": "booth",
+        "location": "Exhibit Booth"
+      }
+    },
+    "available_sessions": [
+      {
+        "session_id": "2270715",
+        "title": "Wellness Session: Fun Run/Walk *RSVP required",
+        "general_score": 20.0,
+        "scores": {
+          "max": 20.0,
+          "pavel": 20.0,
+          "daphne": 20.0
+        }
+      }
+    ],
+    "booth_coverage": {
+      "count": 3,
+      "people": [
+        "Max Ghenis",
+        "Pavel Makarchuk",
+        "Daphne Hansell"
+      ]
+    }
+  },
+  {
+    "date": "2025-11-13",
+    "start_time": "8:30am",
+    "end_time": "10:00am",
+    "assignments": {
+      "Daphne Hansell": {
+        "type": "session",
+        "session_id": "2260802",
+        "title": "Impacts of Medicaid Dental Benefits Among Pregnant People, Reproductive-Age Women, and Other Adults",
+        "location": "Hyatt Regency Seattle, 5th Floor, 509 - ToltSession Submission Type: PanelAbstractThis panel explores how the expansion of Medicaid dental benefits influences healthcare utilization, health outcomes, and health behaviors among low-income and vulnerable populations. Using rigorous quasi-experimental methods and national data sources, the three studies offer new insights into the effectiveness\u2014and consequences\u2014of Medicaid dental coverage in improving population health and equity.",
+        "general_score": 65.0,
+        "person_score": 95.0
+      },
+      "Max Ghenis": {
+        "type": "booth",
+        "location": "Exhibit Booth"
+      },
+      "Pavel Makarchuk": {
+        "type": "booth",
+        "location": "Exhibit Booth"
+      }
+    },
+    "available_sessions": [
+      {
+        "session_id": "2259958",
+        "title": "Responding to High-Need Populations: Medicare Policy in Action",
+        "general_score": 65.0,
+        "scores": {
+          "max": 65.0,
+          "pavel": 65.0,
+          "daphne": 95.0
+        }
+      },
+      {
+        "session_id": "2260156",
+        "title": "Differential Implementation and Impacts of Policies to Combat Poverty and Food Insecurity",
+        "general_score": 50.0,
+        "scores": {
+          "max": 60.0,
+          "pavel": 50.0,
+          "daphne": 50.0
+        }
+      },
+      {
+        "session_id": "2257624",
+        "title": "Early Childhood Care and Education Enrollment: Policy Drivers and Impacts",
+        "general_score": 30.0,
+        "scores": {
+          "max": 30.0,
+          "pavel": 30.0,
+          "daphne": 30.0
+        }
+      },
+      {
+        "session_id": "2258642",
+        "title": "Access and Obstacles: Policy in Practice for Individuals with Disabilities",
+        "general_score": 30.0,
+        "scores": {
+          "max": 30.0,
+          "pavel": 30.0,
+          "daphne": 30.0
+        }
+      },
+      {
+        "session_id": "2260739",
+        "title": "Water Policy Under Pressure: Interdisciplinary Insights for Resilient Governance",
+        "general_score": 30.0,
+        "scores": {
+          "max": 30.0,
+          "pavel": 30.0,
+          "daphne": 30.0
+        }
+      }
+    ],
+    "booth_coverage": {
+      "count": 2,
+      "people": [
+        "Max Ghenis",
+        "Pavel Makarchuk"
+      ]
+    }
+  },
+  {
+    "date": "2025-11-13",
+    "start_time": "8:30am",
+    "end_time": "9:30am",
+    "assignments": {
+      "Max Ghenis": {
+        "type": "booth",
+        "location": "Exhibit Booth"
+      },
+      "Pavel Makarchuk": {
+        "type": "booth",
+        "location": "Exhibit Booth"
+      },
+      "Daphne Hansell": {
+        "type": "booth",
+        "location": "Exhibit Booth"
+      }
+    },
+    "available_sessions": [
+      {
+        "session_id": "2271410",
+        "title": "APPAM Communities First-Gen Researchers",
+        "general_score": 20.0,
+        "scores": {
+          "max": 20.0,
+          "pavel": 20.0,
+          "daphne": 20.0
+        }
+      }
+    ],
+    "booth_coverage": {
+      "count": 3,
+      "people": [
+        "Max Ghenis",
+        "Pavel Makarchuk",
+        "Daphne Hansell"
+      ]
+    }
+  },
+  {
+    "date": "2025-11-13",
+    "start_time": "9:45am",
+    "end_time": "10:15am",
+    "assignments": {
+      "Max Ghenis": {
+        "type": "booth",
+        "location": "Exhibit Booth"
+      },
+      "Pavel Makarchuk": {
+        "type": "booth",
+        "location": "Exhibit Booth"
+      },
+      "Daphne Hansell": {
+        "type": "booth",
+        "location": "Exhibit Booth"
+      }
+    },
+    "available_sessions": [
+      {
+        "session_id": "2313434",
+        "title": "\u2022 Welcome: A First-timers Huddle",
+        "general_score": 20.0,
+        "scores": {
+          "max": 20.0,
+          "pavel": 20.0,
+          "daphne": 20.0
+        }
+      }
+    ],
+    "booth_coverage": {
+      "count": 3,
+      "people": [
+        "Max Ghenis",
+        "Pavel Makarchuk",
+        "Daphne Hansell"
+      ]
+    }
+  },
+  {
+    "date": "2025-11-13",
+    "start_time": "10:15am",
+    "end_time": "11:45am",
+    "assignments": {
+      "Pavel Makarchuk": {
+        "type": "session",
+        "session_id": "2268355",
+        "title": "Tax Policy and Politics",
+        "location": "Hyatt Regency Seattle, 7th Floor, 705 - PalouseSession Submission Type: Paper PanelPolicy AreaPolitics, Media, and the Policy ProcessChairManita C Rao, University of Southern CaliforniaDiscussantEmily Elizabeth Dobson, University of Maryland, College ParkIndividual PresentationsElectoral, Demographic, and Environmental Predictors of Support for a Transportation Sales Tax in San Diego County - Presenting Author:  Jacob Carson, San Diego State UniversityPerceptions of Meritocratic Recruitment and Promotion, and Willingness to Pay Taxes - Presenting Author:  Maria Nagawa, Stanford UniversityState Child Tax Credits in Public-Facing Media: A Content Analysis of their Design and Aims - Presenting Author:  Erin Young, Portland State University \u00a92025 All Academic, Inc. \u00a0 | \u00a0 Privacy PolicyDirect link:Tweet",
+        "general_score": 70.0,
+        "person_score": 85.0
+      },
+      "Max Ghenis": {
+        "type": "booth",
+        "location": "Exhibit Booth"
+      },
+      "Daphne Hansell": {
+        "type": "booth",
+        "location": "Exhibit Booth"
+      }
+    },
+    "available_sessions": [
+      {
+        "session_id": "2257064",
+        "title": "Criminal Justice Interventions with Cross-Policy Impacts",
+        "general_score": 30.0,
+        "scores": {
+          "max": 30.0,
+          "pavel": 30.0,
+          "daphne": 30.0
+        }
+      },
+      {
+        "session_id": "2258590",
+        "title": "Beyond the Red Lines: New Directions in the Study of Housing Policy and Racial Inequality",
+        "general_score": 30.0,
+        "scores": {
+          "max": 30.0,
+          "pavel": 30.0,
+          "daphne": 70.0
+        }
+      },
+      {
+        "session_id": "2259119",
+        "title": "Economic Insecurity and CPS Involvement: Bidirectional Risks and Policy Levers",
+        "general_score": 30.0,
+        "scores": {
+          "max": 30.0,
+          "pavel": 30.0,
+          "daphne": 30.0
+        }
+      },
+      {
+        "session_id": "2259615",
+        "title": "Maternal and Infant Health at the Crossroads: Interdisciplinary Evidence for Holistic Policy Solutions",
+        "general_score": 30.0,
+        "scores": {
+          "max": 30.0,
+          "pavel": 30.0,
+          "daphne": 40.0
+        }
+      },
+      {
+        "session_id": "2259688",
+        "title": "Advancing Racial Equity in Health and Social Policy: Evidence from Programs, Providers, and Policy Design",
+        "general_score": 30.0,
+        "scores": {
+          "max": 30.0,
+          "pavel": 30.0,
+          "daphne": 85.0
+        }
+      }
+    ],
+    "booth_coverage": {
+      "count": 2,
+      "people": [
+        "Max Ghenis",
+        "Daphne Hansell"
+      ]
+    }
+  },
+  {
+    "date": "2025-11-13",
+    "start_time": "10:15am",
+    "end_time": "11:15am",
+    "assignments": {
+      "Max Ghenis": {
+        "type": "booth",
+        "location": "Exhibit Booth"
+      },
+      "Pavel Makarchuk": {
+        "type": "booth",
+        "location": "Exhibit Booth"
+      },
+      "Daphne Hansell": {
+        "type": "booth",
+        "location": "Exhibit Booth"
+      }
+    },
+    "available_sessions": [
+      {
+        "session_id": "2268623",
+        "title": "APPAM Communities Rural Policy Research & Issues",
+        "general_score": 30.0,
+        "scores": {
+          "max": 30.0,
+          "pavel": 30.0,
+          "daphne": 30.0
+        }
+      },
+      {
+        "session_id": "2269361",
+        "title": "APPAM Communities Immigration Policy Researchers and Advocates for Action-Oriented Networking",
+        "general_score": 30.0,
+        "scores": {
+          "max": 30.0,
+          "pavel": 30.0,
+          "daphne": 30.0
+        }
+      }
+    ],
+    "booth_coverage": {
+      "count": 3,
+      "people": [
+        "Max Ghenis",
+        "Pavel Makarchuk",
+        "Daphne Hansell"
+      ]
+    }
+  },
+  {
+    "date": "2025-11-13",
+    "start_time": "12:00pm",
+    "end_time": "1:30pm",
+    "assignments": {
+      "Max Ghenis": {
+        "type": "booth",
+        "location": "Exhibit Booth"
+      },
+      "Pavel Makarchuk": {
+        "type": "booth",
+        "location": "Exhibit Booth"
+      },
+      "Daphne Hansell": {
+        "type": "booth",
+        "location": "Exhibit Booth"
+      }
+    },
+    "available_sessions": [
+      {
+        "session_id": "2270702",
+        "title": "Membership & Awards Lunch: Point/Counterpoint The Future of the U.S. Department of Education: Reform, Reinvention, or Retrenchment?",
+        "general_score": 20.0,
+        "scores": {
+          "max": 20.0,
+          "pavel": 20.0,
+          "daphne": 20.0
+        }
+      }
+    ],
+    "booth_coverage": {
+      "count": 3,
+      "people": [
+        "Max Ghenis",
+        "Pavel Makarchuk",
+        "Daphne Hansell"
+      ]
+    }
+  },
+  {
+    "date": "2025-11-13",
+    "start_time": "1:45pm",
+    "end_time": "3:15pm",
+    "assignments": {
+      "Pavel Makarchuk": {
+        "type": "session",
+        "session_id": "2258530",
+        "title": "CTC and EITC Impacts on Child Poverty: NAS Review of Pandemic Policies and Future Options",
+        "location": "Hyatt Regency Seattle, 6th Floor, 605 - SnohomishSession Submission Type: RoundtableAbstractThe National Academies of Sciences, Engineering, and Medicine (NASEM) Committee on Federal Policy Impacts on Child Poverty report will be released in September, 2025. This Roundtable will discuss key finding related to (1) the estimated impacts on child poverty of the pandemic expansions (Joseph Hotz); (2) estimated impacts of a wide range of tax policy alternatives (Maria Cancian); (3) lessons for policy implementation, including findings on take-up, interactions with other pandemic programs, and from engagements with individuals with lived experience (Katherine Michelmore) and (4) lessons for research, including the Committee\u2019s assessment of the state of analysis of labor supply effects of the EITC and CTC, and issues related to poverty measurement (Marianne Bitler). The report, and roundtable presentation, not only review the state of the current policy literature, but also present new microsimulation results supporting an assessment of both the 2021 policy changes (CTC, EITC, and other pandemic proposals), and a large set of alternative policy proposals. \u00a0The Roundtable will include short presentations highlighting the key conclusions of the NAS Committee, with substantial time for discussion of the policy implications given current (as of November 2025) tax policy discussions, and implications for policy implementation and research.",
+        "general_score": 95.0,
+        "person_score": 95.0
+      },
+      "Max Ghenis": {
+        "type": "booth",
+        "location": "Exhibit Booth"
+      },
+      "Daphne Hansell": {
+        "type": "booth",
+        "location": "Exhibit Booth"
+      }
+    },
+    "available_sessions": [
+      {
+        "session_id": "2257840",
+        "title": "Investigation of Policies for Increasing Children\u2019s Receipt of Medicaid-funded School-based Health Services",
+        "general_score": 65.0,
+        "scores": {
+          "max": 65.0,
+          "pavel": 65.0,
+          "daphne": 95.0
+        }
+      },
+      {
+        "session_id": "2259383",
+        "title": "Crisis and Change: How Environmental Shocks Reshape Policy, Labor, and Land",
+        "general_score": 30.0,
+        "scores": {
+          "max": 30.0,
+          "pavel": 30.0,
+          "daphne": 30.0
+        }
+      },
+      {
+        "session_id": "2259722",
+        "title": "Transforming Preparation: Teacher Apprenticeships at the Intersection of Equity, Policy, and Practice",
+        "general_score": 30.0,
+        "scores": {
+          "max": 30.0,
+          "pavel": 30.0,
+          "daphne": 30.0
+        }
+      },
+      {
+        "session_id": "2260674",
+        "title": "Adoption of Electric Vehicles and Charging Infrastructure: Policy Design and Effectiveness",
+        "general_score": 30.0,
+        "scores": {
+          "max": 30.0,
+          "pavel": 30.0,
+          "daphne": 30.0
+        }
+      },
+      {
+        "session_id": "2268581",
+        "title": "Health Policy for Children",
+        "general_score": 30.0,
+        "scores": {
+          "max": 30.0,
+          "pavel": 30.0,
+          "daphne": 95.0
+        }
+      }
+    ],
+    "booth_coverage": {
+      "count": 2,
+      "people": [
+        "Max Ghenis",
+        "Daphne Hansell"
+      ]
+    }
+  },
+  {
+    "date": "2025-11-13",
+    "start_time": "1:45pm",
+    "end_time": "2:45pm",
+    "assignments": {
+      "Max Ghenis": {
+        "type": "booth",
+        "location": "Exhibit Booth"
+      },
+      "Pavel Makarchuk": {
+        "type": "booth",
+        "location": "Exhibit Booth"
+      },
+      "Daphne Hansell": {
+        "type": "booth",
+        "location": "Exhibit Booth"
+      }
+    },
+    "available_sessions": [
+      {
+        "session_id": "2271413",
+        "title": "APPAM Communities Undergraduate Education",
+        "general_score": 20.0,
+        "scores": {
+          "max": 20.0,
+          "pavel": 20.0,
+          "daphne": 20.0
+        }
+      },
+      {
+        "session_id": "2271414",
+        "title": "APPAM Communities Women in Economics",
+        "general_score": 20.0,
+        "scores": {
+          "max": 20.0,
+          "pavel": 20.0,
+          "daphne": 20.0
+        }
+      }
+    ],
+    "booth_coverage": {
+      "count": 3,
+      "people": [
+        "Max Ghenis",
+        "Pavel Makarchuk",
+        "Daphne Hansell"
+      ]
+    }
+  },
+  {
+    "date": "2025-11-13",
+    "start_time": "2:45pm",
+    "end_time": "3:15pm",
+    "assignments": {
+      "Max Ghenis": {
+        "type": "booth",
+        "location": "Exhibit Booth"
+      },
+      "Pavel Makarchuk": {
+        "type": "booth",
+        "location": "Exhibit Booth"
+      },
+      "Daphne Hansell": {
+        "type": "booth",
+        "location": "Exhibit Booth"
+      }
+    },
+    "available_sessions": [
+      {
+        "session_id": "2313435",
+        "title": "Strategies to Promote and Maintain Wellness",
+        "general_score": 20.0,
+        "scores": {
+          "max": 20.0,
+          "pavel": 20.0,
+          "daphne": 20.0
+        }
+      }
+    ],
+    "booth_coverage": {
+      "count": 3,
+      "people": [
+        "Max Ghenis",
+        "Pavel Makarchuk",
+        "Daphne Hansell"
+      ]
+    }
+  },
+  {
+    "date": "2025-11-13",
+    "start_time": "3:30pm",
+    "end_time": "5:00pm",
+    "assignments": {
+      "Max Ghenis": {
+        "type": "booth",
+        "location": "Exhibit Booth"
+      },
+      "Pavel Makarchuk": {
+        "type": "booth",
+        "location": "Exhibit Booth"
+      },
+      "Daphne Hansell": {
+        "type": "booth",
+        "location": "Exhibit Booth"
+      }
+    },
+    "available_sessions": [
+      {
+        "session_id": "2267863",
+        "title": "Poverty and Environmental Inequity: Land, Heat, and Energy",
+        "general_score": 50.0,
+        "scores": {
+          "max": 60.0,
+          "pavel": 50.0,
+          "daphne": 50.0
+        }
+      },
+      {
+        "session_id": "2315170",
+        "title": "David. N Kershaw Award Lecture: The Intergenerational Persistence of Poverty",
+        "general_score": 50.0,
+        "scores": {
+          "max": 60.0,
+          "pavel": 50.0,
+          "daphne": 50.0
+        }
+      },
+      {
+        "session_id": "2258777",
+        "title": "Place and Opportunity: Human Services and Public Policy",
+        "general_score": 30.0,
+        "scores": {
+          "max": 30.0,
+          "pavel": 30.0,
+          "daphne": 30.0
+        }
+      },
+      {
+        "session_id": "2258884",
+        "title": "Artificial Intelligence and Smart Policymaking in South Korea",
+        "general_score": 30.0,
+        "scores": {
+          "max": 30.0,
+          "pavel": 30.0,
+          "daphne": 30.0
+        }
+      },
+      {
+        "session_id": "2258995",
+        "title": "Private Foundations and Funding Opportunities for Policy-Relevant Research",
+        "general_score": 30.0,
+        "scores": {
+          "max": 30.0,
+          "pavel": 30.0,
+          "daphne": 30.0
+        }
+      }
+    ],
+    "booth_coverage": {
+      "count": 3,
+      "people": [
+        "Max Ghenis",
+        "Pavel Makarchuk",
+        "Daphne Hansell"
+      ]
+    }
+  },
+  {
+    "date": "2025-11-13",
+    "start_time": "3:30pm",
+    "end_time": "4:30pm",
+    "assignments": {
+      "Max Ghenis": {
+        "type": "booth",
+        "location": "Exhibit Booth"
+      },
+      "Pavel Makarchuk": {
+        "type": "booth",
+        "location": "Exhibit Booth"
+      },
+      "Daphne Hansell": {
+        "type": "booth",
+        "location": "Exhibit Booth"
+      }
+    },
+    "available_sessions": [
+      {
+        "session_id": "2271403",
+        "title": "APPAM Communities BIPOC in Public Policy",
+        "general_score": 30.0,
+        "scores": {
+          "max": 30.0,
+          "pavel": 30.0,
+          "daphne": 30.0
+        }
+      },
+      {
+        "session_id": "2269954",
+        "title": "APPAM Communities Community-Engaged and Participatory Researchers",
+        "general_score": 20.0,
+        "scores": {
+          "max": 20.0,
+          "pavel": 20.0,
+          "daphne": 20.0
+        }
+      }
+    ],
+    "booth_coverage": {
+      "count": 3,
+      "people": [
+        "Max Ghenis",
+        "Pavel Makarchuk",
+        "Daphne Hansell"
+      ]
+    }
+  },
+  {
+    "date": "2025-11-13",
+    "start_time": "5:00pm",
+    "end_time": "6:30pm",
+    "assignments": {
+      "Max Ghenis": {
+        "type": "booth",
+        "location": "Exhibit Booth"
+      },
+      "Pavel Makarchuk": {
+        "type": "booth",
+        "location": "Exhibit Booth"
+      },
+      "Daphne Hansell": {
+        "type": "booth",
+        "location": "Exhibit Booth"
+      }
+    },
+    "available_sessions": [
+      {
+        "session_id": "2270703",
+        "title": "Presidential Address & Awards: Going Local: The Value of Research on Local Government Policies and Programs",
+        "general_score": 20.0,
+        "scores": {
+          "max": 20.0,
+          "pavel": 20.0,
+          "daphne": 20.0
+        }
+      }
+    ],
+    "booth_coverage": {
+      "count": 3,
+      "people": [
+        "Max Ghenis",
+        "Pavel Makarchuk",
+        "Daphne Hansell"
+      ]
+    }
+  },
+  {
+    "date": "2025-11-13",
+    "start_time": "6:30pm",
+    "end_time": "7:15pm",
+    "assignments": {
+      "Max Ghenis": {
+        "type": "booth",
+        "location": "Exhibit Booth"
+      },
+      "Pavel Makarchuk": {
+        "type": "booth",
+        "location": "Exhibit Booth"
+      },
+      "Daphne Hansell": {
+        "type": "booth",
+        "location": "Exhibit Booth"
+      }
+    },
+    "available_sessions": [
+      {
+        "session_id": "2270704",
+        "title": "Equity & Inclusion Fellowship Current Fellows Meet-Up *Invite only",
+        "general_score": 20.0,
+        "scores": {
+          "max": 20.0,
+          "pavel": 20.0,
+          "daphne": 20.0
+        }
+      }
+    ],
+    "booth_coverage": {
+      "count": 3,
+      "people": [
+        "Max Ghenis",
+        "Pavel Makarchuk",
+        "Daphne Hansell"
+      ]
+    }
+  },
+  {
+    "date": "2025-11-13",
+    "start_time": "7:00pm",
+    "end_time": "8:30pm",
+    "assignments": {
+      "Max Ghenis": {
+        "type": "booth",
+        "location": "Exhibit Booth"
+      },
+      "Pavel Makarchuk": {
+        "type": "booth",
+        "location": "Exhibit Booth"
+      },
+      "Daphne Hansell": {
+        "type": "booth",
+        "location": "Exhibit Booth"
+      }
+    },
+    "available_sessions": [
+      {
+        "session_id": "2276096",
+        "title": "Lincoln Institute of Land Policy",
+        "general_score": 30.0,
+        "scores": {
+          "max": 30.0,
+          "pavel": 30.0,
+          "daphne": 30.0
+        }
+      }
+    ],
+    "booth_coverage": {
+      "count": 3,
+      "people": [
+        "Max Ghenis",
+        "Pavel Makarchuk",
+        "Daphne Hansell"
+      ]
+    }
+  },
+  {
+    "date": "2025-11-14",
+    "start_time": "7:00am",
+    "end_time": "7:30am",
+    "assignments": {
+      "Max Ghenis": {
+        "type": "booth",
+        "location": "Exhibit Booth"
+      },
+      "Pavel Makarchuk": {
+        "type": "booth",
+        "location": "Exhibit Booth"
+      },
+      "Daphne Hansell": {
+        "type": "booth",
+        "location": "Exhibit Booth"
+      }
+    },
+    "available_sessions": [
+      {
+        "session_id": "2270717",
+        "title": "Wellness Session: HIIT *RSVP required",
+        "general_score": 20.0,
+        "scores": {
+          "max": 20.0,
+          "pavel": 20.0,
+          "daphne": 20.0
+        }
+      }
+    ],
+    "booth_coverage": {
+      "count": 3,
+      "people": [
+        "Max Ghenis",
+        "Pavel Makarchuk",
+        "Daphne Hansell"
+      ]
+    }
+  },
+  {
+    "date": "2025-11-14",
+    "start_time": "8:30am",
+    "end_time": "10:00am",
+    "assignments": {
+      "Pavel Makarchuk": {
+        "type": "session",
+        "session_id": "2259458",
+        "title": "Access and Retention in SNAP and WIC: Patterns and Interventions",
+        "location": "Grand Hyatt Seattle, 1st Floor/Lobby Level, Princess 1Session Submission Type: PanelAbstractMuch of public benefit attainment in programs like SNAP and WIC relates to administrative processes and associated burdens, and many studies take as their premise that addressing these administrative barriers can increase benefit access and retention (Herd & Moynihan, 2018; Giannella et al, 2024; Wu & Meyer, 2021). In a policy environment with substantial devolution in programs like TANF and the potential for future devolution in others (Bruch et al, 2018), understanding patterns of benefit access and retention on a state-by-state level may inform how to make these programs more effective and resilient. Recent research demonstrates that increases in state-level administrative discretion have indeed increased differences in benefit attainment (Herd & Moynihan 2023). This panel brings together state-level analyses of SNAP and WIC cases using administrative data to understand how different elements of program administration impact access and retention, particularly in ways that may impact existing disparities. The first paper, by Basurto et al., studies SNAP take-up differences based on state adoption of online applications. The second paper, by Fox-Dichter et al., describes patterns of churn in the New Jersey SNAP caseload, examining characteristics of the cases most likely to miss four or fewer months of benefits within a few years of SNAP versus those that stayed on SNAP for the duration of that time frame. The third paper, by Bitler et al., examines WIC retention and whether the transition to WIC EBT on the county level impacted recertification in a mountain state. Taken together, these papers will provide insights into how local-level differences and discretion in program administration may impact participants\u2019 access and retention of benefits, identifying opportunities for future state- and local-level improvement, and how states can make use of administrative data as well as online discourse for program learning and improvement.Policy AreaPoverty and Income PolicySecondary Policy AreaSocial Equity and RaceChairAndrea Hetling, Rutgers University - New BrunswickDiscussantsLaura Peck, Rutgers UniversitySwati S Joshi, University of Wisconsin-MadisonOrganizerSophia Fox-Dichter, Rutgers University - New BrunswickIndividual PresentationsThe Role of Technology in the Safety Net: Adoption of Online SNAP Applications - Presenting Author:  Luis E Basurto, Cornell UniversityPatterns of Churn in New Jersey's SNAP Caseload - Presenting Author:  Sophia Fox-Dichter, Rutgers University - New Brunswick; Non-Presenting Co-Author:  Andrea Hetling, Rutgers University - New Brunswick; Non-Presenting Co-Author:  Kirsten Meidlinger, Rutgers University - New BrunswickEffects of EBT on Program Enrollment: Evidence from a Mountain State - Non-Presenting Co-Author:  Marianne Bitler, University of California, Davis; Presenting Author:  Caitlin Shamoly Dutta, University of Wisconsin-Madison; Non-Presenting Co-Author:  Seojung Oh, University of North Carolina, Charlotte; Non-Presenting Co-Author:  Jason B Cook \u00a92025 All Academic, Inc. \u00a0 | \u00a0 Privacy PolicyDirect link:Tweet",
+        "general_score": 70.0,
+        "person_score": 70.0
+      },
+      "Max Ghenis": {
+        "type": "booth",
+        "location": "Exhibit Booth"
+      },
+      "Daphne Hansell": {
+        "type": "booth",
+        "location": "Exhibit Booth"
+      }
+    },
+    "available_sessions": [
+      {
+        "session_id": "2259530",
+        "title": "Long-term Effects of Housing Vouchers: Findings from the Family Options Study 12-Year Followup",
+        "general_score": 50.0,
+        "scores": {
+          "max": 50.0,
+          "pavel": 50.0,
+          "daphne": 50.0
+        }
+      },
+      {
+        "session_id": "2259667",
+        "title": "Poverty, Policy, and Economic Supports in Early Childhood",
+        "general_score": 50.0,
+        "scores": {
+          "max": 60.0,
+          "pavel": 50.0,
+          "daphne": 50.0
+        }
+      },
+      {
+        "session_id": "2258250",
+        "title": "Leveraging Housing Policy to Reduce Educational Inequality",
+        "general_score": 30.0,
+        "scores": {
+          "max": 30.0,
+          "pavel": 30.0,
+          "daphne": 70.0
+        }
+      },
+      {
+        "session_id": "2259058",
+        "title": "Transition Toward Decarbonization: Cross-National Perspectives on Transformative and Collaborative Policy Approaches",
+        "general_score": 30.0,
+        "scores": {
+          "max": 30.0,
+          "pavel": 30.0,
+          "daphne": 30.0
+        }
+      },
+      {
+        "session_id": "2259095",
+        "title": "Disability, Policy, and Financial Hardship",
+        "general_score": 30.0,
+        "scores": {
+          "max": 30.0,
+          "pavel": 30.0,
+          "daphne": 30.0
+        }
+      }
+    ],
+    "booth_coverage": {
+      "count": 2,
+      "people": [
+        "Max Ghenis",
+        "Daphne Hansell"
+      ]
+    }
+  },
+  {
+    "date": "2025-11-14",
+    "start_time": "8:30am",
+    "end_time": "9:30am",
+    "assignments": {
+      "Max Ghenis": {
+        "type": "booth",
+        "location": "Exhibit Booth"
+      },
+      "Pavel Makarchuk": {
+        "type": "booth",
+        "location": "Exhibit Booth"
+      },
+      "Daphne Hansell": {
+        "type": "booth",
+        "location": "Exhibit Booth"
+      }
+    },
+    "available_sessions": [
+      {
+        "session_id": "2271408",
+        "title": "APPAM Communities Early Career Professionals",
+        "general_score": 20.0,
+        "scores": {
+          "max": 20.0,
+          "pavel": 20.0,
+          "daphne": 20.0
+        }
+      },
+      {
+        "session_id": "2271411",
+        "title": "APPAM Communities LGBTQ+ Researchers",
+        "general_score": 20.0,
+        "scores": {
+          "max": 20.0,
+          "pavel": 20.0,
+          "daphne": 20.0
+        }
+      }
+    ],
+    "booth_coverage": {
+      "count": 3,
+      "people": [
+        "Max Ghenis",
+        "Pavel Makarchuk",
+        "Daphne Hansell"
+      ]
+    }
+  },
+  {
+    "date": "2025-11-14",
+    "start_time": "8:30am",
+    "end_time": "10:15am",
+    "assignments": {
+      "Max Ghenis": {
+        "type": "booth",
+        "location": "Exhibit Booth"
+      },
+      "Pavel Makarchuk": {
+        "type": "booth",
+        "location": "Exhibit Booth"
+      },
+      "Daphne Hansell": {
+        "type": "booth",
+        "location": "Exhibit Booth"
+      }
+    },
+    "available_sessions": [
+      {
+        "session_id": "2311226",
+        "title": "How AI is Transforming Public Policy Education and Research",
+        "general_score": 30.0,
+        "scores": {
+          "max": 30.0,
+          "pavel": 30.0,
+          "daphne": 30.0
+        }
+      }
+    ],
+    "booth_coverage": {
+      "count": 3,
+      "people": [
+        "Max Ghenis",
+        "Pavel Makarchuk",
+        "Daphne Hansell"
+      ]
+    }
+  },
+  {
+    "date": "2025-11-14",
+    "start_time": "9:30am",
+    "end_time": "10:30am",
+    "assignments": {
+      "Max Ghenis": {
+        "type": "booth",
+        "location": "Exhibit Booth"
+      },
+      "Pavel Makarchuk": {
+        "type": "booth",
+        "location": "Exhibit Booth"
+      },
+      "Daphne Hansell": {
+        "type": "booth",
+        "location": "Exhibit Booth"
+      }
+    },
+    "available_sessions": [
+      {
+        "session_id": "2315669",
+        "title": "Meet the JPAM Editor at APPAM Central",
+        "general_score": 20.0,
+        "scores": {
+          "max": 20.0,
+          "pavel": 20.0,
+          "daphne": 20.0
+        }
+      }
+    ],
+    "booth_coverage": {
+      "count": 3,
+      "people": [
+        "Max Ghenis",
+        "Pavel Makarchuk",
+        "Daphne Hansell"
+      ]
+    }
+  },
+  {
+    "date": "2025-11-14",
+    "start_time": "9:45am",
+    "end_time": "10:15am",
+    "assignments": {
+      "Max Ghenis": {
+        "type": "booth",
+        "location": "Exhibit Booth"
+      },
+      "Pavel Makarchuk": {
+        "type": "booth",
+        "location": "Exhibit Booth"
+      },
+      "Daphne Hansell": {
+        "type": "booth",
+        "location": "Exhibit Booth"
+      }
+    },
+    "available_sessions": [
+      {
+        "session_id": "2313437",
+        "title": "Navigating Imposter Syndrome",
+        "general_score": 20.0,
+        "scores": {
+          "max": 20.0,
+          "pavel": 20.0,
+          "daphne": 20.0
+        }
+      }
+    ],
+    "booth_coverage": {
+      "count": 3,
+      "people": [
+        "Max Ghenis",
+        "Pavel Makarchuk",
+        "Daphne Hansell"
+      ]
+    }
+  },
+  {
+    "date": "2025-11-14",
+    "start_time": "10:15am",
+    "end_time": "11:45am",
+    "assignments": {
+      "Daphne Hansell": {
+        "type": "session",
+        "session_id": "2258670",
+        "title": "Access to Health Care",
+        "location": "Grand Hyatt Seattle, 1st Floor/Lobby Level, Discovery BSession Submission Type: PanelAbstractIn this session, four papers will explore critical aspects of healthcare access and outcomes: the impact of urgent care centers on health and local healthcare systems, the effects of hospital consolidation on medical debt, the consequences of obstetric unit closures on maternity care access and health disparities, and the role of prior authorization policies in Medicaid on drug utilization and spending. These studies will provide valuable insights into how changes in healthcare infrastructure, provider concentration, and policy interventions affect patient health and access to care, emphasizing the need for targeted policies to address disparities and improve health outcomes for all.Policy AreaHealth PolicyChairSarah Reber, Brookings InstitutionDiscussantsSarah Reber, Brookings InstitutionCaitlin Knowles Myers, Middlebury CollegeOrganizerSarah Reber, Brookings InstitutionIndividual PresentationsThe Health Effects of Urgent Care Center Entry: The Case of WellNow - Presenting Author:  Eliane H. Barker, Hamilton College; Non-Presenting Co-Author:  Stephen Wu, Hamilton CollegeEffects of Obstetric Unit Closures on Maternity Care Access and Delivery Outcomes - Presenting Author:  Jennifer Helen Kwok, University of Illinois, ChicagoHealth Provider Concentration and Medical Debt - Presenting Author:  Alaa Abdelfattah, Occidental CollegeInformative Ordeals in Health Care: Prior Authorization of Drugs in Medicaid - Presenting Author:  Ljubica Ristovska, University of Texas at Austin \u00a92025 All Academic, Inc. \u00a0 | \u00a0 Privacy PolicyDirect link:Tweet",
+        "general_score": 20.0,
+        "person_score": 85.0
+      },
+      "Max Ghenis": {
+        "type": "booth",
+        "location": "Exhibit Booth"
+      },
+      "Pavel Makarchuk": {
+        "type": "booth",
+        "location": "Exhibit Booth"
+      }
+    },
+    "available_sessions": [
+      {
+        "session_id": "2268969",
+        "title": "New Approaches to Measuring Poverty, Well-Being, and Program Enrollment",
+        "general_score": 50.0,
+        "scores": {
+          "max": 60.0,
+          "pavel": 50.0,
+          "daphne": 50.0
+        }
+      },
+      {
+        "session_id": "2260128",
+        "title": "Sales Taxes as Social Policy: Incidence, consumer responses and benefits distribution of wax waivers and inclusions",
+        "general_score": 45.0,
+        "scores": {
+          "max": 55.0,
+          "pavel": 60.0,
+          "daphne": 45.0
+        }
+      },
+      {
+        "session_id": "2267990",
+        "title": "Impacts of Taxes, Privatization, and Land Right",
+        "general_score": 45.0,
+        "scores": {
+          "max": 55.0,
+          "pavel": 60.0,
+          "daphne": 45.0
+        }
+      },
+      {
+        "session_id": "2247132",
+        "title": "Using Future of Families and Child Wellbeing Study Data for Policy Research",
+        "general_score": 30.0,
+        "scores": {
+          "max": 30.0,
+          "pavel": 30.0,
+          "daphne": 30.0
+        }
+      },
+      {
+        "session_id": "2258286",
+        "title": "Unintended Consequences and Tradeoffs in Substance Use Policy",
+        "general_score": 30.0,
+        "scores": {
+          "max": 30.0,
+          "pavel": 30.0,
+          "daphne": 30.0
+        }
+      }
+    ],
+    "booth_coverage": {
+      "count": 2,
+      "people": [
+        "Max Ghenis",
+        "Pavel Makarchuk"
+      ]
+    }
+  },
+  {
+    "date": "2025-11-14",
+    "start_time": "10:15am",
+    "end_time": "11:15am",
+    "assignments": {
+      "Max Ghenis": {
+        "type": "booth",
+        "location": "Exhibit Booth"
+      },
+      "Pavel Makarchuk": {
+        "type": "booth",
+        "location": "Exhibit Booth"
+      },
+      "Daphne Hansell": {
+        "type": "booth",
+        "location": "Exhibit Booth"
+      }
+    },
+    "available_sessions": [
+      {
+        "session_id": "2268082",
+        "title": "APPAM Communities Housing Policy Research Community",
+        "general_score": 30.0,
+        "scores": {
+          "max": 30.0,
+          "pavel": 30.0,
+          "daphne": 70.0
+        }
+      },
+      {
+        "session_id": "2268449",
+        "title": "APPAM Communities Consumer Credit Data Users",
+        "general_score": 20.0,
+        "scores": {
+          "max": 20.0,
+          "pavel": 20.0,
+          "daphne": 20.0
+        }
+      }
+    ],
+    "booth_coverage": {
+      "count": 3,
+      "people": [
+        "Max Ghenis",
+        "Pavel Makarchuk",
+        "Daphne Hansell"
+      ]
+    }
+  },
+  {
+    "date": "2025-11-14",
+    "start_time": "12:00pm",
+    "end_time": "1:00pm",
+    "assignments": {
+      "Max Ghenis": {
+        "type": "booth",
+        "location": "Exhibit Booth"
+      },
+      "Pavel Makarchuk": {
+        "type": "booth",
+        "location": "Exhibit Booth"
+      },
+      "Daphne Hansell": {
+        "type": "booth",
+        "location": "Exhibit Booth"
+      }
+    },
+    "available_sessions": [
+      {
+        "session_id": "2270709",
+        "title": "Equity & Inclusion Fellowship Luncheon *Invite only",
+        "general_score": 20.0,
+        "scores": {
+          "max": 20.0,
+          "pavel": 20.0,
+          "daphne": 20.0
+        }
+      }
+    ],
+    "booth_coverage": {
+      "count": 3,
+      "people": [
+        "Max Ghenis",
+        "Pavel Makarchuk",
+        "Daphne Hansell"
+      ]
+    }
+  },
+  {
+    "date": "2025-11-14",
+    "start_time": "1:00pm",
+    "end_time": "3:00pm",
+    "assignments": {
+      "Max Ghenis": {
+        "type": "booth",
+        "location": "Exhibit Booth"
+      },
+      "Pavel Makarchuk": {
+        "type": "booth",
+        "location": "Exhibit Booth"
+      },
+      "Daphne Hansell": {
+        "type": "booth",
+        "location": "Exhibit Booth"
+      }
+    },
+    "available_sessions": [
+      {
+        "session_id": "2270710",
+        "title": "Career & PhD Program Fair",
+        "general_score": 20.0,
+        "scores": {
+          "max": 20.0,
+          "pavel": 20.0,
+          "daphne": 20.0
+        }
+      }
+    ],
+    "booth_coverage": {
+      "count": 3,
+      "people": [
+        "Max Ghenis",
+        "Pavel Makarchuk",
+        "Daphne Hansell"
+      ]
+    }
+  },
+  {
+    "date": "2025-11-14",
+    "start_time": "1:45pm",
+    "end_time": "3:15pm",
+    "assignments": {
+      "Max Ghenis": {
+        "type": "session",
+        "session_id": "2257105",
+        "title": "Examining the Reach and Impact of Tax Credits and Transfers at the State and Federal Level",
+        "location": "Hyatt Regency Seattle, 6th Floor, 601 - HohSession Submission Type: PanelAbstractThis panel brings together four papers that offer empirical insights into how diverse households experience tax credits and transfers\u2014and how those experiences can inform more effective policy.",
+        "general_score": 80.0,
+        "person_score": 90.0
+      },
+      "Pavel Makarchuk": {
+        "type": "booth",
+        "location": "Exhibit Booth"
+      },
+      "Daphne Hansell": {
+        "type": "booth",
+        "location": "Exhibit Booth"
+      }
+    },
+    "available_sessions": [
+      {
+        "session_id": "2269548",
+        "title": "New Methodologies for Distributional Weighting and Program Evaluation",
+        "general_score": 65.0,
+        "scores": {
+          "max": 65.0,
+          "pavel": 65.0,
+          "daphne": 65.0
+        }
+      },
+      {
+        "session_id": "2258116",
+        "title": "The Role of Policy Design and Implementation in Shaping Energy Program Performance",
+        "general_score": 30.0,
+        "scores": {
+          "max": 30.0,
+          "pavel": 30.0,
+          "daphne": 30.0
+        }
+      },
+      {
+        "session_id": "2258130",
+        "title": "Contraception, Fertility, and Health in Changing Policy Landscapes",
+        "general_score": 30.0,
+        "scores": {
+          "max": 30.0,
+          "pavel": 30.0,
+          "daphne": 40.0
+        }
+      },
+      {
+        "session_id": "2258871",
+        "title": "Evidence-based Govenrance and Policy for Health, Energy, and Environment in South Korea",
+        "general_score": 30.0,
+        "scores": {
+          "max": 30.0,
+          "pavel": 30.0,
+          "daphne": 40.0
+        }
+      },
+      {
+        "session_id": "2259417",
+        "title": "Evidence- & Equity-Informed Policymaking amid Uncertainty and Distrust: Adapting Across Sectors to Sustain Impact",
+        "general_score": 30.0,
+        "scores": {
+          "max": 30.0,
+          "pavel": 30.0,
+          "daphne": 30.0
+        }
+      }
+    ],
+    "booth_coverage": {
+      "count": 2,
+      "people": [
+        "Pavel Makarchuk",
+        "Daphne Hansell"
+      ]
+    }
+  },
+  {
+    "date": "2025-11-14",
+    "start_time": "1:45pm",
+    "end_time": "2:45pm",
+    "assignments": {
+      "Max Ghenis": {
+        "type": "booth",
+        "location": "Exhibit Booth"
+      },
+      "Pavel Makarchuk": {
+        "type": "booth",
+        "location": "Exhibit Booth"
+      },
+      "Daphne Hansell": {
+        "type": "booth",
+        "location": "Exhibit Booth"
+      }
+    },
+    "available_sessions": [
+      {
+        "session_id": "2271404",
+        "title": "APPAM Communities Chinese Policy Scholars Group (CPSG)",
+        "general_score": 30.0,
+        "scores": {
+          "max": 30.0,
+          "pavel": 30.0,
+          "daphne": 30.0
+        }
+      },
+      {
+        "session_id": "2271402",
+        "title": "APPAM Communities Artificial Intelligence",
+        "general_score": 20.0,
+        "scores": {
+          "max": 20.0,
+          "pavel": 20.0,
+          "daphne": 20.0
+        }
+      }
+    ],
+    "booth_coverage": {
+      "count": 3,
+      "people": [
+        "Max Ghenis",
+        "Pavel Makarchuk",
+        "Daphne Hansell"
+      ]
+    }
+  },
+  {
+    "date": "2025-11-14",
+    "start_time": "2:45pm",
+    "end_time": "3:15pm",
+    "assignments": {
+      "Max Ghenis": {
+        "type": "booth",
+        "location": "Exhibit Booth"
+      },
+      "Pavel Makarchuk": {
+        "type": "booth",
+        "location": "Exhibit Booth"
+      },
+      "Daphne Hansell": {
+        "type": "booth",
+        "location": "Exhibit Booth"
+      }
+    },
+    "available_sessions": [
+      {
+        "session_id": "2313438",
+        "title": "Building Community Outside of Your Circle",
+        "general_score": 20.0,
+        "scores": {
+          "max": 20.0,
+          "pavel": 20.0,
+          "daphne": 20.0
+        }
+      }
+    ],
+    "booth_coverage": {
+      "count": 3,
+      "people": [
+        "Max Ghenis",
+        "Pavel Makarchuk",
+        "Daphne Hansell"
+      ]
+    }
+  },
+  {
+    "date": "2025-11-14",
+    "start_time": "3:30pm",
+    "end_time": "5:00pm",
+    "assignments": {
+      "Max Ghenis": {
+        "type": "session",
+        "session_id": "2268961",
+        "title": "SNAP Work Requirements and Their Impact on Health and Financial Well-Being Outcomes",
+        "location": "Hyatt Regency Seattle, 6th Floor, 606 - TwispSession Submission Type: Student Research PanelPolicy AreaPoverty and Income PolicyChairHussain Hadah, Tulane UniversityDiscussantCatria Gadwah-Meaden, RAND School of Public PolicyIndividual PresentationsBurden or Necessity? Experimental Evidence on Public Perceptions of SNAP\u2019s Work Requirement for College Students - Presenting Author:  Kingsford Onyina, University of North Carolina, CharlotteA SNAP in Age Eligibility: Early Effects of Work Requirements on Program Participation and Financial Struggles - Presenting Author:  Anxhela Beluli, University of DelawareThe Impact of SNAP Work Requirements on Nutrition-Sensitive Comorbidities: Evidence from Hospital Inpatient Data - Presenting Author:  Mitchell McFarlane, Syracuse UniversityHeterogeneous Effects of Income on WIC Participation: The Role of Administrative Burdens - Presenting Author:  Youngbin Lee, University of Missouri-Columbia \u00a92025 All Academic, Inc. \u00a0 | \u00a0 Privacy PolicyDirect link:Tweet",
+        "general_score": 85.0,
+        "person_score": 85.0
+      },
+      "Pavel Makarchuk": {
+        "type": "booth",
+        "location": "Exhibit Booth"
+      },
+      "Daphne Hansell": {
+        "type": "booth",
+        "location": "Exhibit Booth"
+      }
+    },
+    "available_sessions": [
+      {
+        "session_id": "2258069",
+        "title": "Suicide and Mental Health Inequities in the U.S.: Evidence from Policy, Place, and Practice",
+        "general_score": 30.0,
+        "scores": {
+          "max": 30.0,
+          "pavel": 30.0,
+          "daphne": 40.0
+        }
+      },
+      {
+        "session_id": "2258863",
+        "title": "Much More Than Funding: Policy Impact Through Philanthropy Partnerships with Research and Government",
+        "general_score": 30.0,
+        "scores": {
+          "max": 30.0,
+          "pavel": 30.0,
+          "daphne": 30.0
+        }
+      },
+      {
+        "session_id": "2259185",
+        "title": "Privatization, Policy Instability, and the Pursuit of Effective Public Service",
+        "general_score": 30.0,
+        "scores": {
+          "max": 30.0,
+          "pavel": 30.0,
+          "daphne": 30.0
+        }
+      },
+      {
+        "session_id": "2259236",
+        "title": "The Role of Land Policy in Addressing Housing and Climate Challenges",
+        "general_score": 30.0,
+        "scores": {
+          "max": 30.0,
+          "pavel": 30.0,
+          "daphne": 30.0
+        }
+      },
+      {
+        "session_id": "2259791",
+        "title": "District Policy Toward Educational Equity",
+        "general_score": 30.0,
+        "scores": {
+          "max": 30.0,
+          "pavel": 30.0,
+          "daphne": 30.0
+        }
+      }
+    ],
+    "booth_coverage": {
+      "count": 2,
+      "people": [
+        "Pavel Makarchuk",
+        "Daphne Hansell"
+      ]
+    }
+  },
+  {
+    "date": "2025-11-14",
+    "start_time": "3:30pm",
+    "end_time": "4:30pm",
+    "assignments": {
+      "Max Ghenis": {
+        "type": "booth",
+        "location": "Exhibit Booth"
+      },
+      "Pavel Makarchuk": {
+        "type": "booth",
+        "location": "Exhibit Booth"
+      },
+      "Daphne Hansell": {
+        "type": "booth",
+        "location": "Exhibit Booth"
+      }
+    },
+    "available_sessions": [
+      {
+        "session_id": "2269915",
+        "title": "APPAM Communities Child and Family Policy",
+        "general_score": 30.0,
+        "scores": {
+          "max": 30.0,
+          "pavel": 30.0,
+          "daphne": 30.0
+        }
+      },
+      {
+        "session_id": "2271407",
+        "title": "APPAM Communities Data Science",
+        "general_score": 20.0,
+        "scores": {
+          "max": 20.0,
+          "pavel": 20.0,
+          "daphne": 20.0
+        }
+      }
+    ],
+    "booth_coverage": {
+      "count": 3,
+      "people": [
+        "Max Ghenis",
+        "Pavel Makarchuk",
+        "Daphne Hansell"
+      ]
+    }
+  },
+  {
+    "date": "2025-11-14",
+    "start_time": "5:00pm",
+    "end_time": "6:30pm",
+    "assignments": {
+      "Max Ghenis": {
+        "type": "booth",
+        "location": "Exhibit Booth"
+      },
+      "Pavel Makarchuk": {
+        "type": "booth",
+        "location": "Exhibit Booth"
+      },
+      "Daphne Hansell": {
+        "type": "booth",
+        "location": "Exhibit Booth"
+      }
+    },
+    "available_sessions": [
+      {
+        "session_id": "2270706",
+        "title": "Friday Poster Reception",
+        "general_score": 20.0,
+        "scores": {
+          "max": 20.0,
+          "pavel": 20.0,
+          "daphne": 20.0
+        }
+      }
+    ],
+    "booth_coverage": {
+      "count": 3,
+      "people": [
+        "Max Ghenis",
+        "Pavel Makarchuk",
+        "Daphne Hansell"
+      ]
+    }
+  },
+  {
+    "date": "2025-11-14",
+    "start_time": "6:00pm",
+    "end_time": "8:00pm",
+    "assignments": {
+      "Max Ghenis": {
+        "type": "booth",
+        "location": "Exhibit Booth"
+      },
+      "Pavel Makarchuk": {
+        "type": "booth",
+        "location": "Exhibit Booth"
+      },
+      "Daphne Hansell": {
+        "type": "booth",
+        "location": "Exhibit Booth"
+      }
+    },
+    "available_sessions": [
+      {
+        "session_id": "2290018",
+        "title": "LGBTQ+ Researchers APPAM Communities Happy Hour",
+        "general_score": 20.0,
+        "scores": {
+          "max": 20.0,
+          "pavel": 20.0,
+          "daphne": 20.0
+        }
+      }
+    ],
+    "booth_coverage": {
+      "count": 3,
+      "people": [
+        "Max Ghenis",
+        "Pavel Makarchuk",
+        "Daphne Hansell"
+      ]
+    }
+  },
+  {
+    "date": "2025-11-15",
+    "start_time": "7:00am",
+    "end_time": "7:30am",
+    "assignments": {
+      "Max Ghenis": {
+        "type": "booth",
+        "location": "Exhibit Booth"
+      },
+      "Pavel Makarchuk": {
+        "type": "booth",
+        "location": "Exhibit Booth"
+      },
+      "Daphne Hansell": {
+        "type": "booth",
+        "location": "Exhibit Booth"
+      }
+    },
+    "available_sessions": [
+      {
+        "session_id": "2270726",
+        "title": "Wellness Session: Yoga *RSVP required",
+        "general_score": 20.0,
+        "scores": {
+          "max": 20.0,
+          "pavel": 20.0,
+          "daphne": 20.0
+        }
+      }
+    ],
+    "booth_coverage": {
+      "count": 3,
+      "people": [
+        "Max Ghenis",
+        "Pavel Makarchuk",
+        "Daphne Hansell"
+      ]
+    }
+  },
+  {
+    "date": "2025-11-15",
+    "start_time": "8:30am",
+    "end_time": "10:00am",
+    "assignments": {
+      "Max Ghenis": {
+        "type": "session",
+        "session_id": "2259416",
+        "title": "Understanding SNAP\u2019s Reach and Access: Evidence from Technology, Policy, and Lived Experience",
+        "location": "Hyatt Regency Seattle, 6th Floor, 601 - HohSession Submission Type: PanelAbstractThis panel examines how policymakers and researchers can better understand, evaluate, and improve the Supplemental Nutrition Assistance Program (SNAP) and related social safety net policies. Using diverse analytical approaches, including quasi-experimental methods, large-scale survey data, and analyses of user-generated online content, the three papers offer new evidence and tools for addressing the challenges of food insecurity, program design, and administrative burden.The first paper examines the impact of SNAP Emergency Allotment (EA) expiration on food insufficiency among households with children, highlighting vulnerable subgroups disproportionately affected by benefit cuts. The second paper utilizes user-generated content on Reddit to explore the lived experiences of SNAP applicants and beneficiaries, providing real-time insights into administrative burdens and procedural challenges. The third paper investigates the expansion of online grocery purchasing for SNAP and related food assistance programs, showing that greater access to digital transactions enhances program use and reduces redemption barriers.Collectively, these presentations highlight the evolving nature of SNAP and its central role in the U.S. safety net. The panel underscores the importance of designing programs that are effective and equitable, while also responsive to the economic, technological, and administrative realities faced by low-income households, grounded in structured policy analysis, empirical evidence, and lived experience.Policy AreaPoverty and Income PolicySecondary Policy AreaPolitics, Media, and the Policy ProcessChairMichele Ver Ploeg, George Washington UniversityDiscussantsEllyn Terry, University of WashingtonLiwei Zhang, The University of GeorgiaOrganizerElora Choudhury, University of Michigan Ann ArborIndividual PresentationsFood Insufficiency After SNAP Emergency Allotment Expiration: Evidence from Households with Children - Presenting Author:  Ruijie Ma, University of PittsburghUnderstanding Administrative Burdens and Experiences of Social Program Beneficiaries and Applicants Using Posts on Reddit - Presenting Author:  Michiko Ueda, Syracuse University; Non-Presenting Co-Author:  Colleen M Heflin, Syracuse UniversityFrom Storefronts to Screens: The Impacts of Online Grocery Shopping on Public Food Assistance Users - Presenting Author:  Kelsey Pukelis, Harvard University & California Department of Social Services \u00a92025 All Academic, Inc. \u00a0 | \u00a0 Privacy PolicyDirect link:Tweet",
+        "general_score": 70.0,
+        "person_score": 70.0
+      },
+      "Pavel Makarchuk": {
+        "type": "booth",
+        "location": "Exhibit Booth"
+      },
+      "Daphne Hansell": {
+        "type": "booth",
+        "location": "Exhibit Booth"
+      }
+    },
+    "available_sessions": [
+      {
+        "session_id": "2256898",
+        "title": "Evaluating and Improving the Housing Choice Voucher Program",
+        "general_score": 50.0,
+        "scores": {
+          "max": 50.0,
+          "pavel": 50.0,
+          "daphne": 50.0
+        }
+      },
+      {
+        "session_id": "2268583",
+        "title": "Student Panel: Insurance and Poverty Alleviation",
+        "general_score": 50.0,
+        "scores": {
+          "max": 60.0,
+          "pavel": 50.0,
+          "daphne": 50.0
+        }
+      },
+      {
+        "session_id": "2258489",
+        "title": "Collaborative Governance for a Clean, Smart, and Resilient Society: Insights into Policy and Practice",
+        "general_score": 30.0,
+        "scores": {
+          "max": 30.0,
+          "pavel": 30.0,
+          "daphne": 30.0
+        }
+      },
+      {
+        "session_id": "2260118",
+        "title": "Policy With versus Policy On: Collaborative Decision-Making and Equity",
+        "general_score": 30.0,
+        "scores": {
+          "max": 30.0,
+          "pavel": 30.0,
+          "daphne": 30.0
+        }
+      },
+      {
+        "session_id": "2260820",
+        "title": "Entrepreneurial Support Organizations as Innovation Infrastructure: Ecosystem Roles, Reach, and Policy Implications",
+        "general_score": 30.0,
+        "scores": {
+          "max": 30.0,
+          "pavel": 30.0,
+          "daphne": 30.0
+        }
+      }
+    ],
+    "booth_coverage": {
+      "count": 2,
+      "people": [
+        "Pavel Makarchuk",
+        "Daphne Hansell"
+      ]
+    }
+  },
+  {
+    "date": "2025-11-15",
+    "start_time": "8:30am",
+    "end_time": "9:30am",
+    "assignments": {
+      "Max Ghenis": {
+        "type": "booth",
+        "location": "Exhibit Booth"
+      },
+      "Pavel Makarchuk": {
+        "type": "booth",
+        "location": "Exhibit Booth"
+      },
+      "Daphne Hansell": {
+        "type": "booth",
+        "location": "Exhibit Booth"
+      }
+    },
+    "available_sessions": [
+      {
+        "session_id": "2267924",
+        "title": "APPAM Communities Cross-Sector Researchers",
+        "general_score": 20.0,
+        "scores": {
+          "max": 20.0,
+          "pavel": 20.0,
+          "daphne": 20.0
+        }
+      },
+      {
+        "session_id": "2269507",
+        "title": "APPAM Communities Research on Women's Employment, Economic Wellbeing, and Health During the Period Surrounding Childbirth",
+        "general_score": 20.0,
+        "scores": {
+          "max": 20.0,
+          "pavel": 20.0,
+          "daphne": 30.0
+        }
+      }
+    ],
+    "booth_coverage": {
+      "count": 3,
+      "people": [
+        "Max Ghenis",
+        "Pavel Makarchuk",
+        "Daphne Hansell"
+      ]
+    }
+  },
+  {
+    "date": "2025-11-15",
+    "start_time": "9:45am",
+    "end_time": "10:15am",
+    "assignments": {
+      "Max Ghenis": {
+        "type": "booth",
+        "location": "Exhibit Booth"
+      },
+      "Pavel Makarchuk": {
+        "type": "booth",
+        "location": "Exhibit Booth"
+      },
+      "Daphne Hansell": {
+        "type": "booth",
+        "location": "Exhibit Booth"
+      }
+    },
+    "available_sessions": [
+      {
+        "session_id": "2313439",
+        "title": "Finding Confidence as a Researcher",
+        "general_score": 20.0,
+        "scores": {
+          "max": 20.0,
+          "pavel": 20.0,
+          "daphne": 20.0
+        }
+      }
+    ],
+    "booth_coverage": {
+      "count": 3,
+      "people": [
+        "Max Ghenis",
+        "Pavel Makarchuk",
+        "Daphne Hansell"
+      ]
+    }
+  },
+  {
+    "date": "2025-11-15",
+    "start_time": "10:15am",
+    "end_time": "11:45am",
+    "assignments": {
+      "Max Ghenis": {
+        "type": "session",
+        "session_id": "2260094",
+        "title": "Poverty Measurement: New Advances, Insights and Policy Implications",
+        "location": "Hyatt Regency Seattle, 6th Floor, 604 - SkykomishSession Submission Type: PanelAbstractPanel Abstract",
+        "general_score": 95.0,
+        "person_score": 95.0
+      },
+      "Pavel Makarchuk": {
+        "type": "booth",
+        "location": "Exhibit Booth"
+      },
+      "Daphne Hansell": {
+        "type": "booth",
+        "location": "Exhibit Booth"
+      }
+    },
+    "available_sessions": [
+      {
+        "session_id": "2260161",
+        "title": "Housing Mobility Programs for Families with Housing Choice Vouchers: Impact Findings",
+        "general_score": 50.0,
+        "scores": {
+          "max": 50.0,
+          "pavel": 50.0,
+          "daphne": 50.0
+        }
+      },
+      {
+        "session_id": "2257878",
+        "title": "The Policy and Politics of Housing Supply",
+        "general_score": 30.0,
+        "scores": {
+          "max": 30.0,
+          "pavel": 30.0,
+          "daphne": 30.0
+        }
+      },
+      {
+        "session_id": "2260335",
+        "title": "Impacts of a First, and now Second, Trump Administration",
+        "general_score": 30.0,
+        "scores": {
+          "max": 30.0,
+          "pavel": 30.0,
+          "daphne": 30.0
+        }
+      },
+      {
+        "session_id": "2268363",
+        "title": "Coalitional Politics in Policy Reform Processes",
+        "general_score": 30.0,
+        "scores": {
+          "max": 30.0,
+          "pavel": 30.0,
+          "daphne": 30.0
+        }
+      },
+      {
+        "session_id": "2268467",
+        "title": "Student Research: Comparative Public Policy",
+        "general_score": 30.0,
+        "scores": {
+          "max": 30.0,
+          "pavel": 30.0,
+          "daphne": 30.0
+        }
+      }
+    ],
+    "booth_coverage": {
+      "count": 2,
+      "people": [
+        "Pavel Makarchuk",
+        "Daphne Hansell"
+      ]
+    }
+  },
+  {
+    "date": "2025-11-15",
+    "start_time": "10:15am",
+    "end_time": "11:15am",
+    "assignments": {
+      "Max Ghenis": {
+        "type": "booth",
+        "location": "Exhibit Booth"
+      },
+      "Pavel Makarchuk": {
+        "type": "booth",
+        "location": "Exhibit Booth"
+      },
+      "Daphne Hansell": {
+        "type": "booth",
+        "location": "Exhibit Booth"
+      }
+    },
+    "available_sessions": [
+      {
+        "session_id": "2269547",
+        "title": "APPAM Communities The Caste System in India and Public Policy",
+        "general_score": 30.0,
+        "scores": {
+          "max": 30.0,
+          "pavel": 30.0,
+          "daphne": 30.0
+        }
+      },
+      {
+        "session_id": "2269555",
+        "title": "APPAM Communities Integrated Services Community",
+        "general_score": 20.0,
+        "scores": {
+          "max": 20.0,
+          "pavel": 20.0,
+          "daphne": 20.0
+        }
+      }
+    ],
+    "booth_coverage": {
+      "count": 3,
+      "people": [
+        "Max Ghenis",
+        "Pavel Makarchuk",
+        "Daphne Hansell"
+      ]
+    }
+  },
+  {
+    "date": "2025-11-15",
+    "start_time": "12:00pm",
+    "end_time": "1:30pm",
+    "assignments": {
+      "Max Ghenis": {
+        "type": "booth",
+        "location": "Exhibit Booth"
+      },
+      "Pavel Makarchuk": {
+        "type": "booth",
+        "location": "Exhibit Booth"
+      },
+      "Daphne Hansell": {
+        "type": "booth",
+        "location": "Exhibit Booth"
+      }
+    },
+    "available_sessions": [
+      {
+        "session_id": "2270707",
+        "title": "Saturday Poster Luncheon",
+        "general_score": 20.0,
+        "scores": {
+          "max": 20.0,
+          "pavel": 20.0,
+          "daphne": 20.0
+        }
+      }
+    ],
+    "booth_coverage": {
+      "count": 3,
+      "people": [
+        "Max Ghenis",
+        "Pavel Makarchuk",
+        "Daphne Hansell"
+      ]
+    }
+  },
+  {
+    "date": "2025-11-15",
+    "start_time": "1:45pm",
+    "end_time": "3:15pm",
+    "assignments": {
+      "Pavel Makarchuk": {
+        "type": "session",
+        "session_id": "2258296",
+        "title": "New Perspectives on People and Places in the Low-Income Housing Tax Credit Program",
+        "location": "Hyatt Regency Seattle, 7th Floor, 701 - ClallumSession Submission Type: PanelAbstractFor the past forty years, the U.S. has built affordable housing primarily through the Low-Income Housing Tax Credit (LIHTC) program. In contrast to public housing and other federally-subsidized project-based programs, LIHTC properties are built in partnership with private developers, who receive tax credits in exchange for building housing affordable to low-income families. The private-public partnership aspect of the program has implications for who lives in LIHTC and where LIHTC is located. The papers in this panel bring new perspectives and data sources to understand the broader implications of LIHTC development on local contexts, residential mobility patterns, and LIHTC tenants.",
+        "general_score": 45.0,
+        "person_score": 95.0
+      },
+      "Daphne Hansell": {
+        "type": "session",
+        "session_id": "2304571",
+        "title": "State Responses to H.R. 1 in SNAP and Medicaid: Early Insights from Washington State",
+        "location": "Hyatt Regency Seattle, 5th Floor, 501 - ChiwawaSession Submission Type: Late-Breaking RoundtableAbstractCongress passed H.R. 1 (also known as the \u201cOne Bill Beautiful Bill\u201d) on July 4, 2025. H.R. 1 expanded work requirements for those enrolled in the Supplemental Nutrition Assistance Program (SNAP) and instituted work requirements for the first time in Medicaid. By at least January 2027, work requirements will be imposed on Medicaid expansion adult enrollees 19 to 64. Starting this year, SNAP work requirements are expanding to those ages 55 to 65 and to participants responsible for caring for a dependent child aged 14 and above. The law also requires that states with higher SNAP error rates share the cost of benefits and reduces eligibility for certain noncitizens.As state agencies move toward operational changes, there are opportunities to better use current data systems to support HR1 compliance and exemption and mitigate negative impacts on Medicaid and SNAP enrollment. Through automated verification using \u2018ex-parte\u2019 processes and automated exemption for the medically frail, states could leverage already-existing data and systems to reduce the administrative burdens that their eligible populations must overcome to retain coverage. This roundtable will examine the evidence for how H.R. 1 is likely to impact SNAP and Medicaid by bringing together representatives from academia and two state agencies in Washington State to directly grapple with these challenges.The roundtable will address the following questions:What lessons can policymakers, researchers, and advocates draw from previous research and early efforts to respond to H.R. 1?How are states interpreting and planning to implement the new requirements?And what strategies are being used to reduce administrative burdens, ensure compliance, and mitigate potential coverage losses?Jeremy Barofsky (Associate Research Professor, Georgetown University, McCourt School of Public Policy, Better Government Lab) will serve as the roundtable moderator and provide policy background to ground the discussion, drawing on evidence from previous efforts to implement Medicaid work requirements and improvements in automated verification processes rolled out during Medicaid unwinding. Eric Giannella (Associate Research Professor, Georgetown University, McCourt School of Public Policy, Better Government Lab) will provide background on evidence on changes to SNAP, including the expansion of work requirements and SNAP error rates changes. We will have representatives from Washington State that will address their state\u2019s early responses to H.R. 1 in both Medicaid and SNAP. Trinity Wilson (Director of Medicaid Eligibility and Customer Service, Washington State Health Care Authority) and Carla Reyes (Assistant Secretary, Economic Services Administration) will explain how Washington State is preparing for changes to Medicaid and SNAP, respectively, and how these programs intend to work together. The roundtable will conclude by inviting audience members to participate and ask questions.Policy AreaPublic and Nonprofit Management and FinanceSecondary Policy AreaPoverty and Income PolicyModeratorJeremy Barofsky, Georgetown UniversityOrganizerJeremy Barofsky, Georgetown UniversitySpeakersEric Giannella, Georgetown UniversityCarla Reyes, Washington State Department of Social and Health ServicesTrinity Wilson, WA State Healthcare Authority \u00a92025 All Academic, Inc. \u00a0 | \u00a0 Privacy PolicyDirect link:Tweet",
+        "general_score": 70.0,
+        "person_score": 95.0
+      },
+      "Max Ghenis": {
+        "type": "booth",
+        "location": "Exhibit Booth"
+      }
+    },
+    "available_sessions": [
+      {
+        "session_id": "2259709",
+        "title": "Innovation in Medicaid: Multiyear Continuous Eligibility for Young Children",
+        "general_score": 80.0,
+        "scores": {
+          "max": 80.0,
+          "pavel": 80.0,
+          "daphne": 95.0
+        }
+      },
+      {
+        "session_id": "2259892",
+        "title": "Enhancing the Use of Administrative Data Through Cross-Sector Collaboration for Evidence-Based Policymaking",
+        "general_score": 55.0,
+        "scores": {
+          "max": 55.0,
+          "pavel": 55.0,
+          "daphne": 55.0
+        }
+      },
+      {
+        "session_id": "2258172",
+        "title": "Living Evidence: Bridging the Evidence-to-Policy Gap by Accelerating Knowledge Synthesis",
+        "general_score": 30.0,
+        "scores": {
+          "max": 30.0,
+          "pavel": 30.0,
+          "daphne": 30.0
+        }
+      },
+      {
+        "session_id": "2258209",
+        "title": "Institutions and Crime: Policy Impacts on Safety, Reintegration, and Civic Participation",
+        "general_score": 30.0,
+        "scores": {
+          "max": 30.0,
+          "pavel": 30.0,
+          "daphne": 30.0
+        }
+      },
+      {
+        "session_id": "2258770",
+        "title": "Policy Pathways in Energy and Aviation Transitions",
+        "general_score": 30.0,
+        "scores": {
+          "max": 30.0,
+          "pavel": 30.0,
+          "daphne": 30.0
+        }
+      }
+    ],
+    "booth_coverage": {
+      "count": 1,
+      "people": [
+        "Max Ghenis"
+      ]
+    }
+  },
+  {
+    "date": "2025-11-15",
+    "start_time": "1:45pm",
+    "end_time": "2:45pm",
+    "assignments": {
+      "Max Ghenis": {
+        "type": "booth",
+        "location": "Exhibit Booth"
+      },
+      "Pavel Makarchuk": {
+        "type": "booth",
+        "location": "Exhibit Booth"
+      },
+      "Daphne Hansell": {
+        "type": "booth",
+        "location": "Exhibit Booth"
+      }
+    },
+    "available_sessions": [
+      {
+        "session_id": "2269958",
+        "title": "APPAM Communities Early Childhood Policy Researchers",
+        "general_score": 30.0,
+        "scores": {
+          "max": 30.0,
+          "pavel": 30.0,
+          "daphne": 30.0
+        }
+      },
+      {
+        "session_id": "2313963",
+        "title": "APPAM Communities Candid Conversations",
+        "general_score": 20.0,
+        "scores": {
+          "max": 20.0,
+          "pavel": 20.0,
+          "daphne": 20.0
+        }
+      }
+    ],
+    "booth_coverage": {
+      "count": 3,
+      "people": [
+        "Max Ghenis",
+        "Pavel Makarchuk",
+        "Daphne Hansell"
+      ]
+    }
+  },
+  {
+    "date": "2025-11-15",
+    "start_time": "2:45pm",
+    "end_time": "3:15pm",
+    "assignments": {
+      "Max Ghenis": {
+        "type": "booth",
+        "location": "Exhibit Booth"
+      },
+      "Pavel Makarchuk": {
+        "type": "booth",
+        "location": "Exhibit Booth"
+      },
+      "Daphne Hansell": {
+        "type": "booth",
+        "location": "Exhibit Booth"
+      }
+    },
+    "available_sessions": [
+      {
+        "session_id": "2313441",
+        "title": "Managing Burnout",
+        "general_score": 20.0,
+        "scores": {
+          "max": 20.0,
+          "pavel": 20.0,
+          "daphne": 20.0
+        }
+      }
+    ],
+    "booth_coverage": {
+      "count": 3,
+      "people": [
+        "Max Ghenis",
+        "Pavel Makarchuk",
+        "Daphne Hansell"
+      ]
+    }
+  },
+  {
+    "date": "2025-11-15",
+    "start_time": "3:30pm",
+    "end_time": "5:00pm",
+    "assignments": {
+      "Max Ghenis": {
+        "type": "booth",
+        "location": "Exhibit Booth"
+      },
+      "Pavel Makarchuk": {
+        "type": "booth",
+        "location": "Exhibit Booth"
+      },
+      "Daphne Hansell": {
+        "type": "booth",
+        "location": "Exhibit Booth"
+      }
+    },
+    "available_sessions": [
+      {
+        "session_id": "2257650",
+        "title": "Transforming WIC: Policy Shifts and Impacts",
+        "general_score": 70.0,
+        "scores": {
+          "max": 70.0,
+          "pavel": 70.0,
+          "daphne": 70.0
+        }
+      },
+      {
+        "session_id": "2260757",
+        "title": "Tracking Policy Changes and Health Impacts of Access to Specific Forms of Care Among Medicaid Populations",
+        "general_score": 65.0,
+        "scores": {
+          "max": 65.0,
+          "pavel": 65.0,
+          "daphne": 95.0
+        }
+      },
+      {
+        "session_id": "2252321",
+        "title": "Policy and Precarity: The Effects of Immigration Enforcement and Legal Status on Migrant Outcomes",
+        "general_score": 30.0,
+        "scores": {
+          "max": 30.0,
+          "pavel": 30.0,
+          "daphne": 30.0
+        }
+      },
+      {
+        "session_id": "2258409",
+        "title": "Designing Inequality Through Federalism? The Role of Policy Framing & Design for Inequalities in Access and Participation",
+        "general_score": 30.0,
+        "scores": {
+          "max": 30.0,
+          "pavel": 30.0,
+          "daphne": 30.0
+        }
+      },
+      {
+        "session_id": "2258659",
+        "title": "Enforcement and Beyond: Child Support Policy and Families with Limited Incomes",
+        "general_score": 30.0,
+        "scores": {
+          "max": 30.0,
+          "pavel": 30.0,
+          "daphne": 30.0
+        }
+      }
+    ],
+    "booth_coverage": {
+      "count": 3,
+      "people": [
+        "Max Ghenis",
+        "Pavel Makarchuk",
+        "Daphne Hansell"
+      ]
+    }
+  },
+  {
+    "date": "2025-11-15",
+    "start_time": "3:30pm",
+    "end_time": "4:30pm",
+    "assignments": {
+      "Max Ghenis": {
+        "type": "booth",
+        "location": "Exhibit Booth"
+      },
+      "Pavel Makarchuk": {
+        "type": "booth",
+        "location": "Exhibit Booth"
+      },
+      "Daphne Hansell": {
+        "type": "booth",
+        "location": "Exhibit Booth"
+      }
+    },
+    "available_sessions": [
+      {
+        "session_id": "2269930",
+        "title": "APPAM Communities Community of Practice: Fostering Trauma-Informed, Repair-and Healing Oriented Public Service",
+        "general_score": 20.0,
+        "scores": {
+          "max": 20.0,
+          "pavel": 20.0,
+          "daphne": 20.0
+        }
+      },
+      {
+        "session_id": "2269956",
+        "title": "APPAM Communities Pacific Rim Human Development Data Collaborative: AI, Ethics, and Early Development in Trans-Pacific Contexts",
+        "general_score": 20.0,
+        "scores": {
+          "max": 20.0,
+          "pavel": 20.0,
+          "daphne": 20.0
+        }
+      }
+    ],
+    "booth_coverage": {
+      "count": 3,
+      "people": [
+        "Max Ghenis",
+        "Pavel Makarchuk",
+        "Daphne Hansell"
+      ]
+    }
+  }
+]
