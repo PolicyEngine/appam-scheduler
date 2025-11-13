@@ -108,7 +108,7 @@
     "chair": "",
     "papers": "",
     "relevance_score": 19.5,
-    "assigned_to": "Pavel Makarchuk",
+    "assigned_to": null,
     "presenters": []
   },
   {
@@ -388,7 +388,7 @@
     "chair": "",
     "papers": "",
     "relevance_score": 15.0,
-    "assigned_to": null,
+    "assigned_to": "Pavel Makarchuk",
     "presenters": []
   },
   {
@@ -633,7 +633,7 @@
     "chair": "",
     "papers": "",
     "relevance_score": 25.5,
-    "assigned_to": "Max Ghenis",
+    "assigned_to": "Pavel Makarchuk",
     "presenters": []
   },
   {
@@ -941,7 +941,7 @@
     "chair": "",
     "papers": "",
     "relevance_score": 15.0,
-    "assigned_to": "Daphne Hansell",
+    "assigned_to": null,
     "presenters": []
   },
   {
@@ -4518,7 +4518,7 @@
     "chair": "",
     "papers": "",
     "relevance_score": 62.67,
-    "assigned_to": "Daphne Hansell",
+    "assigned_to": "Pavel Makarchuk",
     "presenters": []
   },
   {

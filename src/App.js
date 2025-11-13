@@ -11,6 +11,7 @@ function App() {
         <main>
           <Routes>
             <Route path="/" element={<HomePage />} />
+            <Route path="/team-schedule" element={<TeamSchedule />} />
             <Route path="/schedule/:person" element={<PersonSchedule />} />
             <Route path="/sessions" element={<AllSessions />} />
             <Route path="/presenters" element={<Presenters />} />
@@ -30,6 +31,7 @@ function Header() {
         <p>PolicyEngine Team Schedule</p>
         <nav className="nav mt-2">
           <Link to="/" className="nav-link">Home</Link>
+          <Link to="/team-schedule" className="nav-link">Team Schedule</Link>
           <Link to="/sessions" className="nav-link">All Sessions</Link>
           <Link to="/presenters" className="nav-link">Presenters</Link>
         </nav>
@@ -98,6 +100,120 @@ function HomePage() {
           ))}
         </div>
       </section>
+    </div>
+  );
+}
+
+// Team Schedule Page - Side by Side View
+function TeamSchedule() {
+  const [schedule, setSchedule] = useState({});
+  const [sessions, setSessions] = useState([]);
+  const [loading, setLoading] = useState(true);
+
+  useEffect(() => {
+    Promise.all([
+      fetch(`${process.env.PUBLIC_URL}/data/schedule.json`).then(r => r.json()),
+      fetch(`${process.env.PUBLIC_URL}/data/sessions.json`).then(r => r.json())
+    ]).then(([scheduleData, sessionsData]) => {
+      setSchedule(scheduleData);
+      setSessions(sessionsData);
+      setLoading(false);
+    }).catch(err => {
+      console.error('Error loading data:', err);
+      setLoading(false);
+    });
+  }, []);
+
+  if (loading) {
+    return <div className="container"><p>Loading...</p></div>;
+  }
+
+  const people = ['Max Ghenis', 'Pavel Makarchuk', 'Daphne Hansell'];
+
+  // Get all unique time slots
+  const timeSlots = {};
+  sessions.forEach(session => {
+    if (session.date && session.start_time) {
+      const slotKey = `${session.date}|${session.start_time}|${session.end_time}`;
+      if (!timeSlots[slotKey]) {
+        timeSlots[slotKey] = {
+          date: session.date,
+          start_time: session.start_time,
+          end_time: session.end_time,
+          assigned: {}
+        };
+      }
+    }
+  });
+
+  // Fill in assignments
+  people.forEach(person => {
+    (schedule[person] || []).forEach(session => {
+      const slotKey = `${session.date}|${session.start_time}|${session.end_time}`;
+      if (timeSlots[slotKey]) {
+        timeSlots[slotKey].assigned[person] = session;
+      }
+    });
+  });
+
+  // Group by date
+  const slotsByDate = {};
+  Object.values(timeSlots).forEach(slot => {
+    if (!slotsByDate[slot.date]) {
+      slotsByDate[slot.date] = [];
+    }
+    slotsByDate[slot.date].push(slot);
+  });
+
+  // Sort slots within each date
+  Object.keys(slotsByDate).forEach(date => {
+    slotsByDate[date].sort((a, b) => a.start_time.localeCompare(b.start_time));
+  });
+
+  return (
+    <div className="container">
+      <h2 className="mb-3">Team Schedule - Booth Coverage View</h2>
+      <p className="mb-3">
+        Sessions shown in <span className="badge badge-success">green</span> indicate attendance.
+        <span className="badge badge-warning ml-2">BOOTH</span> indicates booth coverage.
+      </p>
+
+      {Object.entries(slotsByDate).sort().map(([date, slots]) => (
+        <div key={date} className="date-section mb-4">
+          <h3 className="date-header">{formatDate(date)}</h3>
+
+          <div className="team-schedule-table">
+            {slots.map((slot, idx) => {
+              const boothPerson = people.find(p => !slot.assigned[p]);
+
+              return (
+                <div key={idx} className="time-slot-row">
+                  <div className="time-slot-time">
+                    <strong>{slot.start_time} - {slot.end_time}</strong>
+                  </div>
+                  <div className="time-slot-people">
+                    {people.map(person => (
+                      <div key={person} className="person-slot">
+                        <div className="person-name">{person.split(' ')[0]}</div>
+                        {slot.assigned[person] ? (
+                          <div className="assigned-session">
+                            <span className="session-title">{slot.assigned[person].title.substring(0, 60)}...</span>
+                            <span className="badge badge-success ml-2">Score: {slot.assigned[person].relevance_score.toFixed(1)}</span>
+                          </div>
+                        ) : (
+                          <div className="booth-assignment">
+                            <span className="badge badge-warning">BOOTH</span>
+                          </div>
+                        )}
+                      </div>
+                    ))}
+                  </div>
+                </div>
+              );
+            })}
+          </div>
+        </div>
+      ))}
     </div>
   );
 }
