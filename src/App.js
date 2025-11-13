@@ -169,9 +169,9 @@ function TeamSchedule() {
   const parseTime = (timeStr) => {
     const match = timeStr.match(/(\d+):(\d+)(am|pm)/i);
     if (!match) return 0;
-    let [_, hours, minutes, period] = match;
-    hours = parseInt(hours);
-    minutes = parseInt(minutes);
+    let hours = parseInt(match[1]);
+    let minutes = parseInt(match[2]);
+    const period = match[3];
     if (period.toLowerCase() === 'pm' && hours !== 12) hours += 12;
     if (period.toLowerCase() === 'am' && hours === 12) hours = 0;
     return hours * 60 + minutes;
