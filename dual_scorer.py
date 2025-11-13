@@ -126,6 +126,7 @@ def score_for_person(session, person_name):
 
     elif person_name == 'Pavel Makarchuk':
         # Pavel: Director of Growth, microsimulation expert, tax-benefit modeling
+        # Focus on QUANTITATIVE/TECHNICAL policy analysis, not qualitative
         if 'microsimulation' in text:
             return (100, "Microsimulation - Pavel's core expertise")
         if 'ctc' in text or 'eitc' in text or 'tax credit' in text:
@@ -138,9 +139,19 @@ def score_for_person(session, person_name):
             return (80, "Behavioral effects - key for microsimulation")
         if 'data visualization' in text:
             return (75, "Data viz - relevant to Pavel's growth role")
+
+        # Medicare/Medicaid with program evaluation or data focus
+        if ('medicare' in text or 'medicaid' in text) and ('policy' in text or 'evaluation' in text or 'administrative data' in text):
+            return (70, "Health program evaluation - relevant methodology")
+
+        # REDUCE score for qualitative/roundtable cash transfers without Max
+        if ('cash transfer' in text or 'unconditional' in text) and 'roundtable' in text:
+            return (max(10, general_score - 30), "Qualitative roundtable - better for Max's policy focus")
+
         # Tax and benefit programs
         if 'tax' in text:
             return (min(100, general_score + 15), "Tax policy - Pavel's expertise")
+
         return (general_score, "Standard relevance")
 
     elif person_name == 'Daphne Hansell':
