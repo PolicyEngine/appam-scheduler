@@ -47,11 +47,34 @@ def export_slot_schedule():
 
         sessions_at_slot = [dict(row) for row in cursor.fetchall()]
 
+        # Check if booth is open at this time
+        # Exhibit hall closes 1:30pm Saturday
+        booth_open = True
+        if date == '2025-11-15':
+            # Parse time to check if after 1:30pm
+            try:
+                hour = int(start_time.split(':')[0])
+                minute = int(start_time.split(':')[1][:2])
+                is_pm = 'pm' in start_time.lower()
+
+                if is_pm and hour != 12:
+                    hour += 12
+                elif not is_pm and hour == 12:
+                    hour = 0
+
+                # 1:30pm = 13:30 = 13*60 + 30 = 810 minutes
+                time_minutes = hour * 60 + minute
+                if time_minutes >= 810:  # After 1:30pm
+                    booth_open = False
+            except:
+                pass
+
         # Build assignments for this slot
         slot_data = {
             'date': date,
             'start_time': start_time,
             'end_time': end_time,
+            'booth_open': booth_open,
             'assignments': {},
             'available_sessions': []
         }
@@ -83,6 +106,9 @@ def export_slot_schedule():
                 # Check if person is available
                 if not scheduler.is_available(person, date, start_time):
                     slot_data['assignments'][person] = {'type': 'absent'}
+                elif not booth_open:
+                    # Booth is closed - person is free
+                    slot_data['assignments'][person] = {'type': 'free', 'note': 'Exhibit hall closed'}
                 else:
                     slot_data['assignments'][person] = {'type': 'booth'}
 

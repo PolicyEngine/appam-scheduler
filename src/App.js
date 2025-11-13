@@ -197,6 +197,11 @@ function TeamSchedule() {
                             <div className="absent-assignment">
                               <span className="badge badge-secondary">ABSENT</span>
                             </div>
+                          ) : assignment?.type === 'free' ? (
+                            <div className="free-assignment">
+                              <span className="badge badge-info">FREE</span>
+                              {assignment.note && <div className="text-sm text-muted mt-1">{assignment.note}</div>}
+                            </div>
                           ) : (
                             <div className="booth-assignment">
                               <span className="badge badge-warning">BOOTH</span>
