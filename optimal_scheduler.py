@@ -21,6 +21,14 @@ class OptimalScheduler:
             'Daphne Hansell': None
         }
 
+        # Lunch break times (prefer at least one person free for lunch)
+        # 12:00pm-1:30pm each day
+        self.lunch_times = [
+            ('2025-11-13', '12:00pm', '1:30pm'),
+            ('2025-11-14', '12:00pm', '1:30pm'),
+            ('2025-11-15', '12:00pm', '1:30pm'),
+        ]
+
         # Booth value by number of people staffing it
         # 0 people = -100 (unacceptable)
         # 1 person = 0 (baseline - requirement met)
