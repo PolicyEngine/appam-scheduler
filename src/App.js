@@ -165,9 +165,20 @@ function TeamSchedule() {
     slotsByDate[slot.date].push(slot);
   });
 
-  // Sort slots within each date
+  // Sort slots within each date chronologically
+  const parseTime = (timeStr) => {
+    const match = timeStr.match(/(\d+):(\d+)(am|pm)/i);
+    if (!match) return 0;
+    let [_, hours, minutes, period] = match;
+    hours = parseInt(hours);
+    minutes = parseInt(minutes);
+    if (period.toLowerCase() === 'pm' && hours !== 12) hours += 12;
+    if (period.toLowerCase() === 'am' && hours === 12) hours = 0;
+    return hours * 60 + minutes;
+  };
+
   Object.keys(slotsByDate).forEach(date => {
-    slotsByDate[date].sort((a, b) => a.start_time.localeCompare(b.start_time));
+    slotsByDate[date].sort((a, b) => parseTime(a.start_time) - parseTime(b.start_time));
   });
 
   return (
@@ -195,8 +206,22 @@ function TeamSchedule() {
                         <div className="person-name">{person.split(' ')[0]}</div>
                         {slot.assigned[person] ? (
                           <div className="assigned-session">
-                            <span className="session-title">{slot.assigned[person].title.substring(0, 60)}...</span>
-                            <span className="badge badge-success ml-2">Score: {slot.assigned[person].relevance_score.toFixed(1)}</span>
+                            <span className="session-title">{slot.assigned[person].title.substring(0, 55)}...</span>
+                            <div className="scores mt-1">
+                              {slot.assigned[person].general_score && (
+                                <span className="badge badge-info">Overall: {slot.assigned[person].general_score.toFixed(0)}</span>
+                              )}
+                              {slot.assigned[person][`${person.split(' ')[0].toLowerCase()}_score`] && (
+                                <span className="badge badge-success ml-1">
+                                  You: {slot.assigned[person][`${person.split(' ')[0].toLowerCase()}_score`].toFixed(0)}
+                                </span>
+                              )}
+                            </div>
+                            {slot.assigned[person].recommended_for && slot.assigned[person].recommended_for.length > 1 && (
+                              <div className="mt-1">
+                                <span className="badge badge-warning">Also good for: {slot.assigned[person].recommended_for.filter(p => p !== person).map(p => p.split(' ')[0]).join(', ')}</span>
+                              </div>
+                            )}
                           </div>
                         ) : (
                           <div className="booth-assignment">

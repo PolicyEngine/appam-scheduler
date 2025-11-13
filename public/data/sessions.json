@@ -11,6 +11,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -25,20 +30,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
-    "presenters": []
-  },
-  {
-    "session_id": "2270684",
-    "title": "Registration",
-    "date": "2025-11-12",
-    "start_time": "4:00pm",
-    "end_time": "7:00pm",
-    "location": "Hyatt Regency Seattle, 7th Floor, 7th Floor FoyerThursday, November 13, 7:00am to 5:00pm, Property:  Hyatt Regency Seattle, Floor: 7th Floor, Room: 7th Floor FoyerFriday, November 14, 7:00am to 5:00pm, Property:  Hyatt Regency Seattle, Floor: 7th Floor, Room: 7th Floor FoyerSaturday, November 15, 8:00am to 1:30pm, Property:  Hyatt Regency Seattle, Floor: 7th Floor, Room: 7th Floor FoyerSession Submission Type: Special EventPolicy AreaSpecial and Business Events \u00a92025 All Academic, Inc. \u00a0 | \u00a0 Privacy PolicyDirect link:Tweet",
-    "description": "",
-    "chair": "",
-    "papers": "",
-    "relevance_score": 0.0,
-    "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -53,6 +49,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -67,6 +68,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -81,6 +87,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 30.0,
+    "max_score": 30.0,
+    "pavel_score": 30.0,
+    "daphne_score": 30.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -95,6 +106,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -109,6 +125,11 @@
     "papers": "",
     "relevance_score": 19.5,
     "assigned_to": null,
+    "general_score": 30.0,
+    "max_score": 30.0,
+    "pavel_score": 30.0,
+    "daphne_score": 70.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -123,6 +144,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 30.0,
+    "max_score": 30.0,
+    "pavel_score": 30.0,
+    "daphne_score": 30.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -137,6 +163,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -151,6 +182,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -165,6 +201,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 30.0,
+    "max_score": 30.0,
+    "pavel_score": 30.0,
+    "daphne_score": 40.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -179,6 +220,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -193,6 +239,13 @@
     "papers": "",
     "relevance_score": 9.0,
     "assigned_to": null,
+    "general_score": 30.0,
+    "max_score": 30.0,
+    "pavel_score": 30.0,
+    "daphne_score": 85.0,
+    "recommended_for": [
+      "Daphne Hansell"
+    ],
     "presenters": []
   },
   {
@@ -207,6 +260,11 @@
     "papers": "",
     "relevance_score": 9.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -221,6 +279,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -235,6 +298,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 30.0,
+    "max_score": 30.0,
+    "pavel_score": 30.0,
+    "daphne_score": 30.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -249,6 +317,11 @@
     "papers": "",
     "relevance_score": 7.5,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -263,6 +336,13 @@
     "papers": "",
     "relevance_score": 4.5,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 95.0,
+    "recommended_for": [
+      "Daphne Hansell"
+    ],
     "presenters": []
   },
   {
@@ -277,6 +357,11 @@
     "papers": "",
     "relevance_score": 4.5,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -291,6 +376,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -305,6 +395,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -319,6 +414,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -333,6 +433,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -347,6 +452,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -361,6 +471,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -374,7 +489,12 @@
     "chair": "",
     "papers": "",
     "relevance_score": 19.5,
-    "assigned_to": "Daphne Hansell",
+    "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 30.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -389,6 +509,13 @@
     "papers": "",
     "relevance_score": 15.0,
     "assigned_to": "Pavel Makarchuk",
+    "general_score": 70.0,
+    "max_score": 80.0,
+    "pavel_score": 85.0,
+    "daphne_score": 70.0,
+    "recommended_for": [
+      "Pavel Makarchuk"
+    ],
     "presenters": []
   },
   {
@@ -403,6 +530,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -417,6 +549,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 30.0,
+    "max_score": 30.0,
+    "pavel_score": 30.0,
+    "daphne_score": 30.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -431,6 +568,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 30.0,
+    "max_score": 30.0,
+    "pavel_score": 30.0,
+    "daphne_score": 30.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -445,6 +587,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 30.0,
+    "max_score": 30.0,
+    "pavel_score": 30.0,
+    "daphne_score": 30.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -459,6 +606,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -473,6 +625,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -487,6 +644,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -501,6 +663,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -515,6 +682,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -529,6 +701,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -543,6 +720,11 @@
     "papers": "",
     "relevance_score": 7.5,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -556,7 +738,14 @@
     "chair": "",
     "papers": "",
     "relevance_score": 13.5,
-    "assigned_to": null,
+    "assigned_to": "Daphne Hansell",
+    "general_score": 65.0,
+    "max_score": 65.0,
+    "pavel_score": 65.0,
+    "daphne_score": 95.0,
+    "recommended_for": [
+      "Daphne Hansell"
+    ],
     "presenters": []
   },
   {
@@ -571,6 +760,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": [
       {
         "id": 69,
@@ -592,6 +786,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -606,6 +805,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -620,6 +824,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -634,6 +843,15 @@
     "papers": "",
     "relevance_score": 25.5,
     "assigned_to": "Pavel Makarchuk",
+    "general_score": 95.0,
+    "max_score": 90.0,
+    "pavel_score": 95.0,
+    "daphne_score": 95.0,
+    "recommended_for": [
+      "Max Ghenis",
+      "Pavel Makarchuk",
+      "Daphne Hansell"
+    ],
     "presenters": []
   },
   {
@@ -648,6 +866,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -662,6 +885,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -676,6 +904,11 @@
     "papers": "",
     "relevance_score": 12.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -690,6 +923,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -704,6 +942,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 30.0,
+    "max_score": 30.0,
+    "pavel_score": 30.0,
+    "daphne_score": 30.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -718,6 +961,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 30.0,
+    "max_score": 30.0,
+    "pavel_score": 30.0,
+    "daphne_score": 30.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -732,6 +980,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -746,6 +999,11 @@
     "papers": "",
     "relevance_score": 10.5,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 30.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -760,6 +1018,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -774,6 +1037,11 @@
     "papers": "",
     "relevance_score": 7.5,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -788,6 +1056,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -802,6 +1075,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 30.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -816,6 +1094,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -830,6 +1113,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 30.0,
+    "max_score": 30.0,
+    "pavel_score": 30.0,
+    "daphne_score": 30.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -844,6 +1132,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -858,6 +1151,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -872,6 +1170,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -886,6 +1189,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -900,6 +1208,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -914,6 +1227,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -928,6 +1246,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -942,6 +1265,13 @@
     "papers": "",
     "relevance_score": 15.0,
     "assigned_to": null,
+    "general_score": 30.0,
+    "max_score": 30.0,
+    "pavel_score": 30.0,
+    "daphne_score": 95.0,
+    "recommended_for": [
+      "Daphne Hansell"
+    ],
     "presenters": []
   },
   {
@@ -956,6 +1286,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -970,6 +1305,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -984,6 +1324,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -998,6 +1343,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -1012,6 +1362,11 @@
     "papers": "",
     "relevance_score": 6.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -1026,6 +1381,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 30.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -1040,6 +1400,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -1054,6 +1419,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -1068,6 +1438,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 30.0,
+    "max_score": 30.0,
+    "pavel_score": 30.0,
+    "daphne_score": 30.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -1082,6 +1457,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -1096,6 +1476,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 30.0,
+    "max_score": 30.0,
+    "pavel_score": 30.0,
+    "daphne_score": 30.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -1110,6 +1495,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -1124,6 +1514,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -1138,6 +1533,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 30.0,
+    "max_score": 30.0,
+    "pavel_score": 30.0,
+    "daphne_score": 30.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -1152,6 +1552,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 30.0,
+    "max_score": 30.0,
+    "pavel_score": 30.0,
+    "daphne_score": 30.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -1166,6 +1571,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 30.0,
+    "max_score": 30.0,
+    "pavel_score": 30.0,
+    "daphne_score": 30.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -1180,6 +1590,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -1194,6 +1609,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -1208,6 +1628,11 @@
     "papers": "",
     "relevance_score": 12.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -1222,6 +1647,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -1236,6 +1666,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 30.0,
+    "max_score": 30.0,
+    "pavel_score": 30.0,
+    "daphne_score": 30.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -1249,7 +1684,12 @@
     "chair": "",
     "papers": "",
     "relevance_score": 13.5,
-    "assigned_to": "Pavel Makarchuk",
+    "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -1264,6 +1704,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 30.0,
+    "max_score": 30.0,
+    "pavel_score": 30.0,
+    "daphne_score": 40.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -1278,6 +1723,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -1292,6 +1742,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -1306,6 +1761,11 @@
     "papers": "",
     "relevance_score": 9.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -1320,6 +1780,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 30.0,
+    "max_score": 30.0,
+    "pavel_score": 30.0,
+    "daphne_score": 40.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -1334,6 +1799,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 30.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -1348,6 +1818,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 30.0,
+    "max_score": 30.0,
+    "pavel_score": 30.0,
+    "daphne_score": 30.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -1361,7 +1836,12 @@
     "chair": "",
     "papers": "",
     "relevance_score": 12.0,
-    "assigned_to": "Max Ghenis",
+    "assigned_to": null,
+    "general_score": 50.0,
+    "max_score": 60.0,
+    "pavel_score": 50.0,
+    "daphne_score": 50.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -1376,6 +1856,11 @@
     "papers": "",
     "relevance_score": 13.5,
     "assigned_to": null,
+    "general_score": 30.0,
+    "max_score": 30.0,
+    "pavel_score": 30.0,
+    "daphne_score": 30.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -1390,6 +1875,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -1404,6 +1894,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -1418,6 +1913,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -1432,6 +1932,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -1446,6 +1951,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -1460,6 +1970,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -1474,6 +1989,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -1488,6 +2008,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 30.0,
+    "max_score": 30.0,
+    "pavel_score": 30.0,
+    "daphne_score": 30.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -1502,6 +2027,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -1516,6 +2046,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -1530,6 +2065,11 @@
     "papers": "",
     "relevance_score": 12.0,
     "assigned_to": null,
+    "general_score": 50.0,
+    "max_score": 60.0,
+    "pavel_score": 50.0,
+    "daphne_score": 50.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -1544,6 +2084,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -1558,6 +2103,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -1572,6 +2122,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -1586,6 +2141,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 30.0,
+    "max_score": 30.0,
+    "pavel_score": 30.0,
+    "daphne_score": 30.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -1600,6 +2160,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 30.0,
+    "max_score": 30.0,
+    "pavel_score": 30.0,
+    "daphne_score": 30.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -1614,6 +2179,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -1628,6 +2198,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -1642,6 +2217,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 30.0,
+    "max_score": 30.0,
+    "pavel_score": 30.0,
+    "daphne_score": 30.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -1656,6 +2236,13 @@
     "papers": "",
     "relevance_score": 4.5,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 95.0,
+    "recommended_for": [
+      "Daphne Hansell"
+    ],
     "presenters": []
   },
   {
@@ -1670,6 +2257,11 @@
     "papers": "",
     "relevance_score": 2.5,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 30.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -1684,6 +2276,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -1698,6 +2295,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -1712,6 +2314,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -1726,6 +2333,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 30.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -1740,6 +2352,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 30.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -1754,6 +2371,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -1768,6 +2390,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -1782,6 +2409,13 @@
     "papers": "",
     "relevance_score": 13.5,
     "assigned_to": null,
+    "general_score": 65.0,
+    "max_score": 65.0,
+    "pavel_score": 65.0,
+    "daphne_score": 95.0,
+    "recommended_for": [
+      "Daphne Hansell"
+    ],
     "presenters": []
   },
   {
@@ -1796,6 +2430,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -1810,6 +2449,11 @@
     "papers": "",
     "relevance_score": 12.0,
     "assigned_to": null,
+    "general_score": 50.0,
+    "max_score": 60.0,
+    "pavel_score": 50.0,
+    "daphne_score": 50.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -1824,6 +2468,11 @@
     "papers": "",
     "relevance_score": 7.5,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -1838,6 +2487,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 30.0,
+    "max_score": 30.0,
+    "pavel_score": 30.0,
+    "daphne_score": 30.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -1852,6 +2506,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -1866,6 +2525,13 @@
     "papers": "",
     "relevance_score": 18.0,
     "assigned_to": "Daphne Hansell",
+    "general_score": 65.0,
+    "max_score": 65.0,
+    "pavel_score": 65.0,
+    "daphne_score": 95.0,
+    "recommended_for": [
+      "Daphne Hansell"
+    ],
     "presenters": []
   },
   {
@@ -1880,6 +2546,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -1894,6 +2565,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 30.0,
+    "max_score": 30.0,
+    "pavel_score": 30.0,
+    "daphne_score": 30.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -1908,6 +2584,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -1922,6 +2603,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 30.0,
+    "max_score": 30.0,
+    "pavel_score": 30.0,
+    "daphne_score": 30.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -1936,6 +2622,13 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 85.0,
+    "recommended_for": [
+      "Daphne Hansell"
+    ],
     "presenters": []
   },
   {
@@ -1950,6 +2643,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 30.0,
+    "max_score": 30.0,
+    "pavel_score": 30.0,
+    "daphne_score": 30.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -1964,6 +2662,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -1978,6 +2681,11 @@
     "papers": "",
     "relevance_score": 2.5,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -1992,6 +2700,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 30.0,
+    "max_score": 30.0,
+    "pavel_score": 30.0,
+    "daphne_score": 30.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -2006,6 +2719,11 @@
     "papers": "",
     "relevance_score": 6.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -2020,6 +2738,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -2034,6 +2757,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -2048,6 +2776,11 @@
     "papers": "",
     "relevance_score": 2.5,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -2062,6 +2795,13 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 100.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [
+      "Max Ghenis"
+    ],
     "presenters": []
   },
   {
@@ -2076,6 +2816,11 @@
     "papers": "",
     "relevance_score": 2.5,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -2090,6 +2835,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 30.0,
+    "max_score": 30.0,
+    "pavel_score": 30.0,
+    "daphne_score": 30.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -2104,6 +2854,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 30.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -2118,6 +2873,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -2132,6 +2892,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 30.0,
+    "max_score": 30.0,
+    "pavel_score": 30.0,
+    "daphne_score": 30.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -2146,6 +2911,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -2160,6 +2930,13 @@
     "papers": "",
     "relevance_score": 13.5,
     "assigned_to": "Daphne Hansell",
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 85.0,
+    "recommended_for": [
+      "Daphne Hansell"
+    ],
     "presenters": []
   },
   {
@@ -2174,6 +2951,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -2188,6 +2970,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -2202,6 +2989,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 30.0,
+    "max_score": 30.0,
+    "pavel_score": 30.0,
+    "daphne_score": 30.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -2216,6 +3008,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 30.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -2230,6 +3027,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -2244,6 +3046,11 @@
     "papers": "",
     "relevance_score": 7.5,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -2258,6 +3065,11 @@
     "papers": "",
     "relevance_score": 4.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -2272,6 +3084,11 @@
     "papers": "",
     "relevance_score": 13.5,
     "assigned_to": null,
+    "general_score": 45.0,
+    "max_score": 55.0,
+    "pavel_score": 60.0,
+    "daphne_score": 45.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -2286,6 +3103,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -2300,6 +3122,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -2313,7 +3140,14 @@
     "chair": "",
     "papers": "",
     "relevance_score": 18.0,
-    "assigned_to": "Max Ghenis",
+    "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 95.0,
+    "recommended_for": [
+      "Daphne Hansell"
+    ],
     "presenters": []
   },
   {
@@ -2328,6 +3162,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -2342,6 +3181,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -2356,6 +3200,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -2370,6 +3219,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 45.0,
+    "max_score": 55.0,
+    "pavel_score": 60.0,
+    "daphne_score": 45.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -2383,7 +3237,12 @@
     "chair": "",
     "papers": "",
     "relevance_score": 7.5,
-    "assigned_to": "Daphne Hansell",
+    "assigned_to": null,
+    "general_score": 30.0,
+    "max_score": 30.0,
+    "pavel_score": 30.0,
+    "daphne_score": 70.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -2398,6 +3257,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -2412,6 +3276,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -2426,6 +3295,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -2440,6 +3314,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -2454,6 +3333,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -2468,6 +3352,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 30.0,
+    "max_score": 30.0,
+    "pavel_score": 30.0,
+    "daphne_score": 30.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -2482,6 +3371,11 @@
     "papers": "",
     "relevance_score": 12.0,
     "assigned_to": null,
+    "general_score": 50.0,
+    "max_score": 60.0,
+    "pavel_score": 50.0,
+    "daphne_score": 50.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -2496,6 +3390,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -2510,6 +3409,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -2524,6 +3428,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -2538,6 +3447,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -2552,6 +3466,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 30.0,
+    "max_score": 30.0,
+    "pavel_score": 30.0,
+    "daphne_score": 30.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -2566,6 +3485,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -2580,6 +3504,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -2594,6 +3523,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -2608,6 +3542,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -2622,6 +3561,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -2635,7 +3579,15 @@
     "chair": "",
     "papers": "",
     "relevance_score": 4.0,
-    "assigned_to": null,
+    "assigned_to": "Max Ghenis",
+    "general_score": 80.0,
+    "max_score": 90.0,
+    "pavel_score": 95.0,
+    "daphne_score": 80.0,
+    "recommended_for": [
+      "Max Ghenis",
+      "Pavel Makarchuk"
+    ],
     "presenters": []
   },
   {
@@ -2650,6 +3602,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -2664,6 +3621,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 30.0,
+    "max_score": 30.0,
+    "pavel_score": 30.0,
+    "daphne_score": 30.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -2678,6 +3640,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 30.0,
+    "max_score": 30.0,
+    "pavel_score": 30.0,
+    "daphne_score": 40.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -2692,6 +3659,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 30.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -2706,6 +3678,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 30.0,
+    "max_score": 30.0,
+    "pavel_score": 30.0,
+    "daphne_score": 40.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -2720,6 +3697,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -2734,6 +3716,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -2748,6 +3735,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -2762,6 +3754,11 @@
     "papers": "",
     "relevance_score": 2.5,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -2776,6 +3773,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 30.0,
+    "max_score": 30.0,
+    "pavel_score": 30.0,
+    "daphne_score": 30.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -2790,6 +3792,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -2804,6 +3811,11 @@
     "papers": "",
     "relevance_score": 9.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -2818,6 +3830,11 @@
     "papers": "",
     "relevance_score": 12.0,
     "assigned_to": null,
+    "general_score": 30.0,
+    "max_score": 30.0,
+    "pavel_score": 30.0,
+    "daphne_score": 30.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -2832,6 +3849,11 @@
     "papers": "",
     "relevance_score": 6.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -2846,6 +3868,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -2859,7 +3886,14 @@
     "chair": "",
     "papers": "",
     "relevance_score": 13.5,
-    "assigned_to": "Max Ghenis",
+    "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 85.0,
+    "recommended_for": [
+      "Daphne Hansell"
+    ],
     "presenters": []
   },
   {
@@ -2874,6 +3908,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 30.0,
+    "max_score": 30.0,
+    "pavel_score": 30.0,
+    "daphne_score": 30.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -2888,6 +3927,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -2902,6 +3946,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -2916,6 +3965,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -2930,6 +3984,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -2944,6 +4003,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -2958,6 +4022,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 30.0,
+    "max_score": 30.0,
+    "pavel_score": 30.0,
+    "daphne_score": 30.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -2972,6 +4041,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 30.0,
+    "max_score": 30.0,
+    "pavel_score": 30.0,
+    "daphne_score": 30.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -2986,6 +4060,11 @@
     "papers": "",
     "relevance_score": 13.5,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -3000,6 +4079,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -3014,6 +4098,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 65.0,
+    "max_score": 65.0,
+    "pavel_score": 65.0,
+    "daphne_score": 65.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -3028,6 +4117,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -3042,6 +4136,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -3056,6 +4155,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 30.0,
+    "max_score": 30.0,
+    "pavel_score": 30.0,
+    "daphne_score": 30.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -3070,6 +4174,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -3084,6 +4193,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -3098,6 +4212,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -3112,6 +4231,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -3126,6 +4250,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -3140,6 +4269,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -3154,6 +4288,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -3168,6 +4307,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 30.0,
+    "max_score": 30.0,
+    "pavel_score": 30.0,
+    "daphne_score": 40.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -3182,6 +4326,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -3196,6 +4345,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 30.0,
+    "max_score": 30.0,
+    "pavel_score": 30.0,
+    "daphne_score": 30.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -3210,6 +4364,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -3224,6 +4383,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 30.0,
+    "max_score": 30.0,
+    "pavel_score": 30.0,
+    "daphne_score": 30.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -3238,6 +4402,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 30.0,
+    "max_score": 30.0,
+    "pavel_score": 30.0,
+    "daphne_score": 30.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -3252,6 +4421,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -3266,6 +4440,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -3280,6 +4459,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -3294,6 +4478,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -3308,6 +4497,11 @@
     "papers": "",
     "relevance_score": 13.5,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 30.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -3322,6 +4516,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 30.0,
+    "max_score": 30.0,
+    "pavel_score": 30.0,
+    "daphne_score": 30.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -3336,6 +4535,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 30.0,
+    "max_score": 30.0,
+    "pavel_score": 30.0,
+    "daphne_score": 30.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -3350,6 +4554,11 @@
     "papers": "",
     "relevance_score": 7.5,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -3364,6 +4573,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -3378,6 +4592,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -3392,6 +4611,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 30.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -3406,6 +4630,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -3420,6 +4649,11 @@
     "papers": "",
     "relevance_score": 10.5,
     "assigned_to": null,
+    "general_score": 30.0,
+    "max_score": 30.0,
+    "pavel_score": 30.0,
+    "daphne_score": 30.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -3434,6 +4668,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -3448,6 +4687,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -3462,6 +4706,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -3476,6 +4725,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -3490,6 +4744,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -3504,6 +4763,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -3518,6 +4782,11 @@
     "papers": "",
     "relevance_score": 12.0,
     "assigned_to": null,
+    "general_score": 30.0,
+    "max_score": 30.0,
+    "pavel_score": 30.0,
+    "daphne_score": 30.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -3532,6 +4801,11 @@
     "papers": "",
     "relevance_score": 9.0,
     "assigned_to": null,
+    "general_score": 30.0,
+    "max_score": 30.0,
+    "pavel_score": 30.0,
+    "daphne_score": 40.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -3546,6 +4820,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 30.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -3559,7 +4838,16 @@
     "chair": "",
     "papers": "",
     "relevance_score": 13.5,
-    "assigned_to": null,
+    "assigned_to": "Max Ghenis",
+    "general_score": 85.0,
+    "max_score": 85.0,
+    "pavel_score": 85.0,
+    "daphne_score": 95.0,
+    "recommended_for": [
+      "Max Ghenis",
+      "Pavel Makarchuk",
+      "Daphne Hansell"
+    ],
     "presenters": []
   },
   {
@@ -3574,6 +4862,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 30.0,
+    "max_score": 30.0,
+    "pavel_score": 30.0,
+    "daphne_score": 30.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -3588,6 +4881,11 @@
     "papers": "",
     "relevance_score": 6.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -3601,7 +4899,12 @@
     "chair": "",
     "papers": "",
     "relevance_score": 9.0,
-    "assigned_to": "Max Ghenis",
+    "assigned_to": null,
+    "general_score": 30.0,
+    "max_score": 30.0,
+    "pavel_score": 30.0,
+    "daphne_score": 30.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -3616,6 +4919,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -3630,6 +4938,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -3643,7 +4956,14 @@
     "chair": "",
     "papers": "",
     "relevance_score": 15.0,
-    "assigned_to": "Daphne Hansell",
+    "assigned_to": null,
+    "general_score": 30.0,
+    "max_score": 30.0,
+    "pavel_score": 30.0,
+    "daphne_score": 95.0,
+    "recommended_for": [
+      "Daphne Hansell"
+    ],
     "presenters": []
   },
   {
@@ -3658,6 +4978,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -3672,6 +4997,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -3686,6 +5016,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -3700,6 +5035,11 @@
     "papers": "",
     "relevance_score": 6.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -3714,6 +5054,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -3728,6 +5073,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 30.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -3741,7 +5091,12 @@
     "chair": "",
     "papers": "",
     "relevance_score": 19.5,
-    "assigned_to": "Daphne Hansell",
+    "assigned_to": null,
+    "general_score": 30.0,
+    "max_score": 30.0,
+    "pavel_score": 30.0,
+    "daphne_score": 70.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -3756,6 +5111,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -3770,6 +5130,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -3784,6 +5149,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -3798,6 +5168,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -3812,6 +5187,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 30.0,
+    "max_score": 30.0,
+    "pavel_score": 30.0,
+    "daphne_score": 30.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -3826,6 +5206,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 30.0,
+    "max_score": 30.0,
+    "pavel_score": 30.0,
+    "daphne_score": 30.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -3840,6 +5225,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -3854,6 +5244,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -3867,7 +5262,12 @@
     "chair": "",
     "papers": "",
     "relevance_score": 13.5,
-    "assigned_to": null,
+    "assigned_to": "Pavel Makarchuk",
+    "general_score": 70.0,
+    "max_score": 70.0,
+    "pavel_score": 70.0,
+    "daphne_score": 70.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -3882,6 +5282,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 50.0,
+    "max_score": 50.0,
+    "pavel_score": 50.0,
+    "daphne_score": 50.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -3896,6 +5301,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 30.0,
+    "max_score": 30.0,
+    "pavel_score": 30.0,
+    "daphne_score": 30.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -3910,6 +5320,11 @@
     "papers": "",
     "relevance_score": 12.0,
     "assigned_to": null,
+    "general_score": 50.0,
+    "max_score": 60.0,
+    "pavel_score": 50.0,
+    "daphne_score": 50.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -3924,6 +5339,11 @@
     "papers": "",
     "relevance_score": 4.5,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -3938,6 +5358,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -3952,6 +5377,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -3966,6 +5396,11 @@
     "papers": "",
     "relevance_score": 13.5,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -3980,6 +5415,11 @@
     "papers": "",
     "relevance_score": 13.5,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 30.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -3994,6 +5434,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -4008,6 +5453,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 30.0,
+    "max_score": 30.0,
+    "pavel_score": 30.0,
+    "daphne_score": 30.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -4022,6 +5472,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -4036,6 +5491,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 30.0,
+    "max_score": 30.0,
+    "pavel_score": 30.0,
+    "daphne_score": 30.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -4050,6 +5510,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -4064,6 +5529,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -4078,6 +5548,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 30.0,
+    "max_score": 30.0,
+    "pavel_score": 30.0,
+    "daphne_score": 30.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -4092,6 +5567,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 30.0,
+    "max_score": 30.0,
+    "pavel_score": 30.0,
+    "daphne_score": 30.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -4106,6 +5586,11 @@
     "papers": "",
     "relevance_score": 7.5,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -4120,6 +5605,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -4134,6 +5624,11 @@
     "papers": "",
     "relevance_score": 7.5,
     "assigned_to": null,
+    "general_score": 30.0,
+    "max_score": 30.0,
+    "pavel_score": 30.0,
+    "daphne_score": 30.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -4148,6 +5643,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -4162,6 +5662,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -4176,6 +5681,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 30.0,
+    "max_score": 30.0,
+    "pavel_score": 30.0,
+    "daphne_score": 30.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -4190,6 +5700,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -4204,6 +5719,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -4218,6 +5738,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 30.0,
+    "max_score": 30.0,
+    "pavel_score": 30.0,
+    "daphne_score": 30.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -4232,6 +5757,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -4246,6 +5776,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -4260,6 +5795,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -4274,6 +5814,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 30.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -4288,6 +5833,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": [
       {
         "id": 68,
@@ -4309,6 +5859,11 @@
     "papers": "",
     "relevance_score": 9.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -4323,6 +5878,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 30.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -4337,6 +5897,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -4351,6 +5916,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 30.0,
+    "max_score": 30.0,
+    "pavel_score": 30.0,
+    "daphne_score": 30.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -4365,6 +5935,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -4379,6 +5954,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -4393,6 +5973,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -4407,6 +5992,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -4421,6 +6011,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -4435,6 +6030,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -4449,6 +6049,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -4463,6 +6068,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -4477,6 +6087,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -4491,6 +6106,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -4505,6 +6125,11 @@
     "papers": "",
     "relevance_score": 13.5,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -4518,7 +6143,16 @@
     "chair": "",
     "papers": "",
     "relevance_score": 62.67,
-    "assigned_to": "Pavel Makarchuk",
+    "assigned_to": "Max Ghenis",
+    "general_score": 95.0,
+    "max_score": 95.0,
+    "pavel_score": 95.0,
+    "daphne_score": 95.0,
+    "recommended_for": [
+      "Max Ghenis",
+      "Pavel Makarchuk",
+      "Daphne Hansell"
+    ],
     "presenters": []
   },
   {
@@ -4533,6 +6167,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 30.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -4547,6 +6186,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 50.0,
+    "max_score": 50.0,
+    "pavel_score": 50.0,
+    "daphne_score": 50.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -4561,6 +6205,11 @@
     "papers": "",
     "relevance_score": 2.5,
     "assigned_to": null,
+    "general_score": 30.0,
+    "max_score": 30.0,
+    "pavel_score": 30.0,
+    "daphne_score": 30.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -4575,6 +6224,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -4589,6 +6243,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -4603,6 +6262,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -4617,6 +6281,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -4631,6 +6300,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -4645,6 +6319,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 30.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -4659,6 +6338,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -4673,6 +6357,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 30.0,
+    "max_score": 30.0,
+    "pavel_score": 30.0,
+    "daphne_score": 30.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -4687,6 +6376,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 30.0,
+    "max_score": 30.0,
+    "pavel_score": 30.0,
+    "daphne_score": 30.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -4701,6 +6395,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -4715,6 +6414,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 30.0,
+    "max_score": 30.0,
+    "pavel_score": 30.0,
+    "daphne_score": 40.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -4729,6 +6433,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 30.0,
+    "max_score": 30.0,
+    "pavel_score": 30.0,
+    "daphne_score": 30.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -4743,6 +6452,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -4757,6 +6471,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -4771,6 +6490,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -4785,6 +6509,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -4799,6 +6528,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -4813,6 +6547,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -4827,6 +6566,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -4841,6 +6585,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 30.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -4855,6 +6604,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 30.0,
+    "max_score": 30.0,
+    "pavel_score": 30.0,
+    "daphne_score": 30.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -4869,6 +6623,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 30.0,
+    "max_score": 30.0,
+    "pavel_score": 30.0,
+    "daphne_score": 30.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -4883,6 +6642,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -4896,7 +6660,14 @@
     "chair": "",
     "papers": "",
     "relevance_score": 12.0,
-    "assigned_to": null,
+    "assigned_to": "Pavel Makarchuk",
+    "general_score": 45.0,
+    "max_score": 55.0,
+    "pavel_score": 95.0,
+    "daphne_score": 45.0,
+    "recommended_for": [
+      "Pavel Makarchuk"
+    ],
     "presenters": []
   },
   {
@@ -4911,6 +6682,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -4925,6 +6701,11 @@
     "papers": "",
     "relevance_score": 6.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -4939,6 +6720,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 30.0,
+    "max_score": 30.0,
+    "pavel_score": 30.0,
+    "daphne_score": 30.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -4953,6 +6739,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -4967,6 +6758,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 30.0,
+    "max_score": 30.0,
+    "pavel_score": 30.0,
+    "daphne_score": 30.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -4981,6 +6777,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -4995,6 +6796,13 @@
     "papers": "",
     "relevance_score": 13.5,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 90.0,
+    "recommended_for": [
+      "Daphne Hansell"
+    ],
     "presenters": []
   },
   {
@@ -5009,6 +6817,13 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 85.0,
+    "recommended_for": [
+      "Daphne Hansell"
+    ],
     "presenters": []
   },
   {
@@ -5023,6 +6838,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -5037,6 +6857,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -5051,6 +6876,13 @@
     "papers": "",
     "relevance_score": 13.5,
     "assigned_to": null,
+    "general_score": 80.0,
+    "max_score": 80.0,
+    "pavel_score": 80.0,
+    "daphne_score": 95.0,
+    "recommended_for": [
+      "Daphne Hansell"
+    ],
     "presenters": []
   },
   {
@@ -5065,6 +6897,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 30.0,
+    "max_score": 30.0,
+    "pavel_score": 30.0,
+    "daphne_score": 30.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -5079,6 +6916,11 @@
     "papers": "",
     "relevance_score": 9.0,
     "assigned_to": null,
+    "general_score": 55.0,
+    "max_score": 55.0,
+    "pavel_score": 55.0,
+    "daphne_score": 55.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -5093,6 +6935,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -5107,6 +6954,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 30.0,
+    "max_score": 30.0,
+    "pavel_score": 30.0,
+    "daphne_score": 30.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -5121,6 +6973,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 30.0,
+    "max_score": 30.0,
+    "pavel_score": 30.0,
+    "daphne_score": 30.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -5135,6 +6992,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -5149,6 +7011,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 30.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -5163,6 +7030,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -5177,6 +7049,11 @@
     "papers": "",
     "relevance_score": 12.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -5191,6 +7068,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 30.0,
+    "max_score": 30.0,
+    "pavel_score": 30.0,
+    "daphne_score": 30.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -5205,6 +7087,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -5219,6 +7106,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -5233,6 +7125,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -5247,6 +7144,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -5261,6 +7163,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -5275,6 +7182,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -5289,6 +7201,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 30.0,
+    "max_score": 30.0,
+    "pavel_score": 30.0,
+    "daphne_score": 30.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -5303,6 +7220,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -5317,6 +7239,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -5331,6 +7258,13 @@
     "papers": "",
     "relevance_score": 27.0,
     "assigned_to": "Daphne Hansell",
+    "general_score": 70.0,
+    "max_score": 70.0,
+    "pavel_score": 70.0,
+    "daphne_score": 95.0,
+    "recommended_for": [
+      "Daphne Hansell"
+    ],
     "presenters": []
   },
   {
@@ -5345,6 +7279,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -5359,6 +7298,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -5373,6 +7317,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 30.0,
+    "max_score": 30.0,
+    "pavel_score": 30.0,
+    "daphne_score": 30.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -5387,6 +7336,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 70.0,
+    "max_score": 70.0,
+    "pavel_score": 70.0,
+    "daphne_score": 70.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -5401,6 +7355,11 @@
     "papers": "",
     "relevance_score": 9.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -5415,6 +7374,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -5429,6 +7393,11 @@
     "papers": "",
     "relevance_score": 12.0,
     "assigned_to": null,
+    "general_score": 30.0,
+    "max_score": 30.0,
+    "pavel_score": 30.0,
+    "daphne_score": 30.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -5443,6 +7412,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 30.0,
+    "max_score": 30.0,
+    "pavel_score": 30.0,
+    "daphne_score": 30.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -5457,6 +7431,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -5470,7 +7449,12 @@
     "chair": "",
     "papers": "",
     "relevance_score": 19.5,
-    "assigned_to": "Daphne Hansell",
+    "assigned_to": null,
+    "general_score": 30.0,
+    "max_score": 30.0,
+    "pavel_score": 30.0,
+    "daphne_score": 70.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -5485,6 +7469,11 @@
     "papers": "",
     "relevance_score": 2.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -5499,6 +7488,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 30.0,
+    "max_score": 30.0,
+    "pavel_score": 30.0,
+    "daphne_score": 30.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -5513,6 +7507,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -5527,6 +7526,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -5541,6 +7545,11 @@
     "papers": "",
     "relevance_score": 2.5,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -5555,6 +7564,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -5569,6 +7583,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -5583,6 +7602,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -5597,6 +7621,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -5611,6 +7640,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 30.0,
+    "max_score": 30.0,
+    "pavel_score": 30.0,
+    "daphne_score": 30.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -5625,6 +7659,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -5639,6 +7678,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -5653,6 +7697,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -5667,6 +7716,11 @@
     "papers": "",
     "relevance_score": 9.0,
     "assigned_to": null,
+    "general_score": 30.0,
+    "max_score": 30.0,
+    "pavel_score": 30.0,
+    "daphne_score": 30.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -5681,6 +7735,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -5695,6 +7754,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -5709,6 +7773,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 30.0,
+    "max_score": 30.0,
+    "pavel_score": 30.0,
+    "daphne_score": 30.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -5722,7 +7791,14 @@
     "chair": "",
     "papers": "",
     "relevance_score": 13.5,
-    "assigned_to": null,
+    "assigned_to": "Daphne Hansell",
+    "general_score": 65.0,
+    "max_score": 65.0,
+    "pavel_score": 65.0,
+    "daphne_score": 95.0,
+    "recommended_for": [
+      "Daphne Hansell"
+    ],
     "presenters": []
   },
   {
@@ -5737,6 +7813,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -5751,6 +7832,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -5765,6 +7851,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -5779,6 +7870,11 @@
     "papers": "",
     "relevance_score": 7.5,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -5793,6 +7889,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -5807,6 +7908,11 @@
     "papers": "",
     "relevance_score": 6.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -5821,6 +7927,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -5835,6 +7946,11 @@
     "papers": "",
     "relevance_score": 10.5,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -5849,6 +7965,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -5863,6 +7984,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -5877,6 +8003,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -5891,6 +8022,11 @@
     "papers": "",
     "relevance_score": 13.5,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -5905,6 +8041,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -5919,6 +8060,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 50.0,
+    "max_score": 50.0,
+    "pavel_score": 50.0,
+    "daphne_score": 50.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -5933,6 +8079,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -5947,6 +8098,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -5961,6 +8117,13 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 85.0,
+    "recommended_for": [
+      "Daphne Hansell"
+    ],
     "presenters": []
   },
   {
@@ -5975,6 +8138,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -5989,6 +8157,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -6003,6 +8176,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 30.0,
+    "max_score": 30.0,
+    "pavel_score": 30.0,
+    "daphne_score": 30.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -6017,6 +8195,11 @@
     "papers": "",
     "relevance_score": 4.5,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -6031,6 +8214,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -6045,6 +8233,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -6059,6 +8252,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -6073,6 +8271,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -6087,6 +8290,13 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 85.0,
+    "recommended_for": [
+      "Daphne Hansell"
+    ],
     "presenters": []
   },
   {
@@ -6101,6 +8311,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -6115,6 +8330,11 @@
     "papers": "",
     "relevance_score": 13.5,
     "assigned_to": null,
+    "general_score": 70.0,
+    "max_score": 70.0,
+    "pavel_score": 70.0,
+    "daphne_score": 70.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -6129,6 +8349,11 @@
     "papers": "",
     "relevance_score": 9.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -6143,6 +8368,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -6157,6 +8387,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -6171,6 +8406,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -6185,6 +8425,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 30.0,
+    "max_score": 30.0,
+    "pavel_score": 30.0,
+    "daphne_score": 30.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -6199,6 +8444,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -6213,6 +8463,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -6227,6 +8482,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 30.0,
+    "max_score": 30.0,
+    "pavel_score": 30.0,
+    "daphne_score": 30.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -6240,7 +8500,12 @@
     "chair": "",
     "papers": "",
     "relevance_score": 13.5,
-    "assigned_to": "Daphne Hansell",
+    "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 30.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -6255,6 +8520,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -6269,6 +8539,11 @@
     "papers": "",
     "relevance_score": 4.5,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -6283,6 +8558,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -6297,6 +8577,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -6311,6 +8596,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -6325,6 +8615,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 30.0,
+    "max_score": 30.0,
+    "pavel_score": 30.0,
+    "daphne_score": 30.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -6339,6 +8634,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -6352,7 +8652,12 @@
     "chair": "",
     "papers": "",
     "relevance_score": 12.0,
-    "assigned_to": "Max Ghenis",
+    "assigned_to": null,
+    "general_score": 50.0,
+    "max_score": 60.0,
+    "pavel_score": 50.0,
+    "daphne_score": 50.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -6367,6 +8672,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 30.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -6381,6 +8691,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -6395,6 +8710,11 @@
     "papers": "",
     "relevance_score": 6.0,
     "assigned_to": null,
+    "general_score": 30.0,
+    "max_score": 30.0,
+    "pavel_score": 30.0,
+    "daphne_score": 30.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -6408,7 +8728,12 @@
     "chair": "",
     "papers": "",
     "relevance_score": 6.0,
-    "assigned_to": "Max Ghenis",
+    "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 30.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -6423,6 +8748,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -6437,6 +8767,11 @@
     "papers": "",
     "relevance_score": 9.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   },
   {
@@ -6451,6 +8786,11 @@
     "papers": "",
     "relevance_score": 0.0,
     "assigned_to": null,
+    "general_score": 20.0,
+    "max_score": 20.0,
+    "pavel_score": 20.0,
+    "daphne_score": 20.0,
+    "recommended_for": [],
     "presenters": []
   }
 ]

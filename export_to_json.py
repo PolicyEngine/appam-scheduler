@@ -28,7 +28,11 @@ def export_database(db_path='appam_sessions.db', output_dir='public/data'):
             s.chair,
             s.papers,
             s.relevance_score,
-            s.assigned_to
+            s.assigned_to,
+            s.general_score,
+            s.max_score,
+            s.pavel_score,
+            s.daphne_score
         FROM sessions s
         ORDER BY s.date, s.start_time
     ''')
@@ -43,6 +47,16 @@ def export_database(db_path='appam_sessions.db', output_dir='public/data'):
                 session['papers'] = json.loads(session['papers'])
             except:
                 session['papers'] = []
+
+        # Add recommended attendees based on person scores
+        recommended = []
+        if session.get('max_score', 0) >= 85:
+            recommended.append('Max Ghenis')
+        if session.get('pavel_score', 0) >= 85:
+            recommended.append('Pavel Makarchuk')
+        if session.get('daphne_score', 0) >= 85:
+            recommended.append('Daphne Hansell')
+        session['recommended_for'] = recommended
 
         # Get presenters for this session
         cursor.execute('''
