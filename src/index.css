@@ -221,6 +221,11 @@ button {
   color: #1E40AF;
 }
 
+.badge-secondary {
+  background-color: var(--gray-200);
+  color: var(--gray-600);
+}
+
 /* Links */
 a {
   color: var(--blue-primary);

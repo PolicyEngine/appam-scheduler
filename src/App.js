@@ -205,24 +205,29 @@ function TeamSchedule() {
                       <div key={person} className="person-slot">
                         <div className="person-name">{person.split(' ')[0]}</div>
                         {slot.assigned[person] ? (
-                          <div className="assigned-session">
-                            <span className="session-title">{slot.assigned[person].title.substring(0, 55)}...</span>
-                            <div className="scores mt-1">
-                              {slot.assigned[person].general_score && (
-                                <span className="badge badge-info">Overall: {slot.assigned[person].general_score.toFixed(0)}</span>
-                              )}
-                              {slot.assigned[person][`${person.split(' ')[0].toLowerCase()}_score`] && (
-                                <span className="badge badge-success ml-1">
-                                  You: {slot.assigned[person][`${person.split(' ')[0].toLowerCase()}_score`].toFixed(0)}
-                                </span>
-                              )}
-                            </div>
-                            {slot.assigned[person].recommended_for && slot.assigned[person].recommended_for.length > 1 && (
-                              <div className="mt-1">
-                                <span className="badge badge-warning">Also good for: {slot.assigned[person].recommended_for.filter(p => p !== person).map(p => p.split(' ')[0]).join(', ')}</span>
+                          slot.assigned[person].type === 'session' ? (
+                            <div className="assigned-session">
+                              <span className="session-title">{slot.assigned[person].title.substring(0, 55)}...</span>
+                              <div className="scores mt-1">
+                                {slot.assigned[person].general_score && (
+                                  <span className="badge badge-info">Overall: {slot.assigned[person].general_score.toFixed(0)}</span>
+                                )}
+                                {slot.assigned[person].person_score && (
+                                  <span className="badge badge-success ml-1">
+                                    You: {slot.assigned[person].person_score.toFixed(0)}
+                                  </span>
+                                )}
                               </div>
-                            )}
-                          </div>
+                            </div>
+                          ) : slot.assigned[person].type === 'absent' ? (
+                            <div className="absent-assignment">
+                              <span className="badge badge-secondary">ABSENT</span>
+                            </div>
+                          ) : (
+                            <div className="booth-assignment">
+                              <span className="badge badge-warning">BOOTH</span>
+                            </div>
+                          )
                         ) : (
                           <div className="booth-assignment">
                             <span className="badge badge-warning">BOOTH</span>

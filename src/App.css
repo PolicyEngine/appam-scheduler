@@ -225,6 +225,12 @@
   text-align: center;
 }
 
+.absent-assignment {
+  padding: var(--spacing-md);
+  text-align: center;
+  opacity: 0.5;
+}
+
 /* Responsive */
 @media (max-width: 768px) {
   .container {

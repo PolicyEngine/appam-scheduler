@@ -12,12 +12,12 @@
 ### 8:30am
 - **Daphne**: Responding to High-Need Populations: Medicare Policy (score: 95)
 - **Pavel**: BOOTH
-- **Max**: Not arrived
+- **Max**: Not arrived yet
 
 ### 10:15am
 - **Pavel**: Tax Policy and Politics (score: 85)
 - **Daphne**: BOOTH
-- **Max**: Arriving 11:30am → BOOTH
+- **Max**: Not arrived yet (arrives 11:30am during this session)
 
 ### 1:45pm
 - **Max**: CTC and EITC Impacts on Child Poverty (score: 90) ⭐
@@ -52,16 +52,19 @@
 
 ## SATURDAY, November 15 (Only Max)
 
-**Pavel & Daphne depart Friday night**
+**Pavel & Daphne: DEPARTED**
 
 ### 8:30am
 - **Max**: Understanding SNAP's Reach and Access (score: 70)
-- **Booth**: Empty or skip session to staff booth
+- **Pavel**: ABSENT (departed Fri night)
+- **Daphne**: ABSENT (departed Fri night)
+- **Booth**: Empty or skip session
 
 ### 10:15am
-- **Max**: Poverty Measurement (score: 95) ⭐⭐⭐
-  - MUST ATTEND - highest value session
-  - Booth empty acceptable
+- **Max**: Poverty Measurement (score: 95) ⭐⭐⭐ MUST ATTEND
+- **Pavel**: ABSENT
+- **Daphne**: ABSENT
+- **Booth**: Empty (acceptable for highest-value session)
 
 ### 12:00pm: Poster Luncheon
 - Networking opportunity

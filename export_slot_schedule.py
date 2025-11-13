@@ -74,13 +74,17 @@ def export_slot_schedule():
                         'person_score': session.get(f"{person.split(' ')[0].lower()}_score", 0) or 0
                     }
 
-        # Everyone not assigned to a session is at booth
+        # Check availability for each person
+        from optimal_scheduler import OptimalScheduler
+        scheduler = OptimalScheduler()
+
         for person in people:
             if person not in slot_data['assignments']:
-                slot_data['assignments'][person] = {
-                    'type': 'booth',
-                    'location': 'Exhibit Booth'
-                }
+                # Check if person is available
+                if not scheduler.is_available(person, date, start_time):
+                    slot_data['assignments'][person] = {'type': 'absent'}
+                else:
+                    slot_data['assignments'][person] = {'type': 'booth'}
 
         # Add top 5 available sessions for reference
         unassigned_sessions = [s for s in sessions_at_slot if not s['assigned_to']]
