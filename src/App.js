@@ -184,8 +184,6 @@ function TeamSchedule() {
 
           <div className="team-schedule-table">
             {slots.map((slot, idx) => {
-              const boothPerson = people.find(p => !slot.assigned[p]);
-
               return (
                 <div key={idx} className="time-slot-row">
                   <div className="time-slot-time">
