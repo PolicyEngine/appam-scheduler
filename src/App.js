@@ -1,11 +1,11 @@
 import React, { useState, useEffect } from 'react';
-import { BrowserRouter as Router, Routes, Route, Link, useNavigate, useLocation } from 'react-router-dom';
+import { HashRouter as Router, Routes, Route, Link, useNavigate, useLocation } from 'react-router-dom';
 import './App.css';
 
 // Main App Component
 function App() {
   return (
-    <Router basename={process.env.PUBLIC_URL || '/'}>
+    <Router>
       <div className="App">
         <Header />
         <main>
@@ -106,22 +106,20 @@ function HomePage() {
 
 // Team Schedule Page - Side by Side View
 function TeamSchedule() {
-  const [schedule, setSchedule] = useState({});
-  const [sessions, setSessions] = useState([]);
+  const [timeSlots, setTimeSlots] = useState([]);
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
-    Promise.all([
-      fetch(`${process.env.PUBLIC_URL}/data/schedule.json`).then(r => r.json()),
-      fetch(`${process.env.PUBLIC_URL}/data/sessions.json`).then(r => r.json())
-    ]).then(([scheduleData, sessionsData]) => {
-      setSchedule(scheduleData);
-      setSessions(sessionsData);
-      setLoading(false);
-    }).catch(err => {
-      console.error('Error loading data:', err);
-      setLoading(false);
-    });
+    fetch(`${process.env.PUBLIC_URL}/data/team_schedule.json`)
+      .then(r => r.json())
+      .then(data => {
+        setTimeSlots(data);
+        setLoading(false);
+      })
+      .catch(err => {
+        console.error('Error loading data:', err);
+        setLoading(false);
+      });
   }, []);
 
   if (loading) {
@@ -130,35 +128,9 @@ function TeamSchedule() {
 
   const people = ['Max Ghenis', 'Pavel Makarchuk', 'Daphne Hansell'];
 
-  // Get all unique time slots
-  const timeSlots = {};
-  sessions.forEach(session => {
-    if (session.date && session.start_time) {
-      const slotKey = `${session.date}|${session.start_time}|${session.end_time}`;
-      if (!timeSlots[slotKey]) {
-        timeSlots[slotKey] = {
-          date: session.date,
-          start_time: session.start_time,
-          end_time: session.end_time,
-          assigned: {}
-        };
-      }
-    }
-  });
-
-  // Fill in assignments
-  people.forEach(person => {
-    (schedule[person] || []).forEach(session => {
-      const slotKey = `${session.date}|${session.start_time}|${session.end_time}`;
-      if (timeSlots[slotKey]) {
-        timeSlots[slotKey].assigned[person] = session;
-      }
-    });
-  });
-
   // Group by date
   const slotsByDate = {};
-  Object.values(timeSlots).forEach(slot => {
+  timeSlots.forEach(slot => {
     if (!slotsByDate[slot.date]) {
       slotsByDate[slot.date] = [];
     }
@@ -201,25 +173,27 @@ function TeamSchedule() {
                     <strong>{slot.start_time} - {slot.end_time}</strong>
                   </div>
                   <div className="time-slot-people">
-                    {people.map(person => (
-                      <div key={person} className="person-slot">
-                        <div className="person-name">{person.split(' ')[0]}</div>
-                        {slot.assigned[person] ? (
-                          slot.assigned[person].type === 'session' ? (
+                    {people.map(person => {
+                      const assignment = slot.assignments?.[person];
+
+                      return (
+                        <div key={person} className="person-slot">
+                          <div className="person-name">{person.split(' ')[0]}</div>
+                          {assignment?.type === 'session' ? (
                             <div className="assigned-session">
-                              <span className="session-title">{slot.assigned[person].title.substring(0, 55)}...</span>
+                              <span className="session-title">{assignment.title.substring(0, 55)}...</span>
                               <div className="scores mt-1">
-                                {slot.assigned[person].general_score && (
-                                  <span className="badge badge-info">Overall: {slot.assigned[person].general_score.toFixed(0)}</span>
+                                {assignment.general_score > 0 && (
+                                  <span className="badge badge-info">Overall: {assignment.general_score.toFixed(0)}</span>
                                 )}
-                                {slot.assigned[person].person_score && (
+                                {assignment.person_score > 0 && (
                                   <span className="badge badge-success ml-1">
-                                    You: {slot.assigned[person].person_score.toFixed(0)}
+                                    You: {assignment.person_score.toFixed(0)}
                                   </span>
                                 )}
                               </div>
                             </div>
-                          ) : slot.assigned[person].type === 'absent' ? (
+                          ) : assignment?.type === 'absent' ? (
                             <div className="absent-assignment">
                               <span className="badge badge-secondary">ABSENT</span>
                             </div>
@@ -227,14 +201,10 @@ function TeamSchedule() {
                             <div className="booth-assignment">
                               <span className="badge badge-warning">BOOTH</span>
                             </div>
-                          )
-                        ) : (
-                          <div className="booth-assignment">
-                            <span className="badge badge-warning">BOOTH</span>
-                          </div>
-                        )}
-                      </div>
-                    ))}
+                          )}
+                        </div>
+                      );
+                    })}
                   </div>
                 </div>
               );
