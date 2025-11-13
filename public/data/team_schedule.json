@@ -1,53 +1,14 @@
 [
   {
     "date": "2025-11-13",
-    "start_time": "6:30am",
-    "end_time": "7:30am",
-    "assignments": {
-      "Max Ghenis": {
-        "type": "booth",
-        "location": "Exhibit Booth"
-      },
-      "Pavel Makarchuk": {
-        "type": "booth",
-        "location": "Exhibit Booth"
-      },
-      "Daphne Hansell": {
-        "type": "booth",
-        "location": "Exhibit Booth"
-      }
-    },
-    "available_sessions": [
-      {
-        "session_id": "2270715",
-        "title": "Wellness Session: Fun Run/Walk *RSVP required",
-        "general_score": 20.0,
-        "scores": {
-          "max": 20.0,
-          "pavel": 20.0,
-          "daphne": 20.0
-        }
-      }
-    ],
-    "booth_coverage": {
-      "count": 3,
-      "people": [
-        "Max Ghenis",
-        "Pavel Makarchuk",
-        "Daphne Hansell"
-      ]
-    }
-  },
-  {
-    "date": "2025-11-13",
     "start_time": "8:30am",
     "end_time": "10:00am",
     "assignments": {
       "Daphne Hansell": {
         "type": "session",
-        "session_id": "2260802",
-        "title": "Impacts of Medicaid Dental Benefits Among Pregnant People, Reproductive-Age Women, and Other Adults",
-        "location": "Hyatt Regency Seattle, 5th Floor, 509 - ToltSession Submission Type: PanelAbstractThis panel explores how the expansion of Medicaid dental benefits influences healthcare utilization, health outcomes, and health behaviors among low-income and vulnerable populations. Using rigorous quasi-experimental methods and national data sources, the three studies offer new insights into the effectiveness\u2014and consequences\u2014of Medicaid dental coverage in improving population health and equity.",
+        "session_id": "2259958",
+        "title": "Responding to High-Need Populations: Medicare Policy in Action",
+        "location": "Hyatt Regency Seattle, 5th Floor, 512 - WillapaSession Submission Type: PanelAbstractMedicare is evolving to meet the needs of high-risk populations, with major implications for how beneficiaries access and experience care. This panel presents four empirical studies that examine: how individuals with new high-need diagnoses navigate plan choices; how expanded eligibility under the Cures Act has shifted the Medicare Advantage (MA) landscape for ESKD patients; how the Inflation Reduction Act\u2019s insulin copay cap has affected access and outcomes; and how Medicare Coverage shapes Treatment of Opioid use disorder. Together, these studies reveal how policy design and beneficiary response shape care for complex populations.",
         "general_score": 65.0,
         "person_score": 95.0
       },
@@ -61,16 +22,6 @@
       }
     },
     "available_sessions": [
-      {
-        "session_id": "2259958",
-        "title": "Responding to High-Need Populations: Medicare Policy in Action",
-        "general_score": 65.0,
-        "scores": {
-          "max": 65.0,
-          "pavel": 65.0,
-          "daphne": 95.0
-        }
-      },
       {
         "session_id": "2260156",
         "title": "Differential Implementation and Impacts of Policies to Combat Poverty and Food Insecurity",
@@ -104,6 +55,16 @@
       {
         "session_id": "2260739",
         "title": "Water Policy Under Pressure: Interdisciplinary Insights for Resilient Governance",
+        "general_score": 30.0,
+        "scores": {
+          "max": 30.0,
+          "pavel": 30.0,
+          "daphne": 30.0
+        }
+      },
+      {
+        "session_id": "2268034",
+        "title": "APPAM Communities Global South Policy scholars",
         "general_score": 30.0,
         "scores": {
           "max": 30.0,
@@ -373,34 +334,28 @@
     "start_time": "1:45pm",
     "end_time": "3:15pm",
     "assignments": {
-      "Pavel Makarchuk": {
+      "Daphne Hansell": {
+        "type": "session",
+        "session_id": "2257840",
+        "title": "Investigation of Policies for Increasing Children\u2019s Receipt of Medicaid-funded School-based Health Services",
+        "location": "Hyatt Regency Seattle, 5th Floor, 512 - WillapaSession Submission Type: PanelAbstractPolicymakers have long recognized the potential for schools to provide early identification and management of youth health issues. Policies such as the Bipartisan Safer Communities Act (BSCA), the 2014 free care policy reversal, and federal grants have directed more funding to bring more mental health personnel into schools. Medicaid reimbursement for services provided to students is one strategy schools can use to fund and retain mental health professionals, and to that end, the BSCA called for an update by the Centers for Medicare & Medicaid Services (CMS) to the rules that determine what is eligible for reimbursement and how schools can submit for Medicaid reimbursement. Before the 2014 free care policy reversal, schools could not receive Medicaid reimbursement for services unless they were provided via an Individualized Educational Program. Since then, states have the option of expanding Medicaid to take advantage of reimbursement for services provided to any Medicaid-enrolled student. To encourage more states to support reimbursement of school-based health services, the new CMS guide strives to decrease administrative burdens on schools and develop easier methods for requesting reimbursement. Altogether, these are important policy changes to understand and investigate the extent to which they are increasing the presence of health professionals in schools and the receipt of Medicaid-funded school-based health services by children.",
+        "general_score": 65.0,
+        "person_score": 95.0
+      },
+      "Max Ghenis": {
         "type": "session",
         "session_id": "2258530",
         "title": "CTC and EITC Impacts on Child Poverty: NAS Review of Pandemic Policies and Future Options",
         "location": "Hyatt Regency Seattle, 6th Floor, 605 - SnohomishSession Submission Type: RoundtableAbstractThe National Academies of Sciences, Engineering, and Medicine (NASEM) Committee on Federal Policy Impacts on Child Poverty report will be released in September, 2025. This Roundtable will discuss key finding related to (1) the estimated impacts on child poverty of the pandemic expansions (Joseph Hotz); (2) estimated impacts of a wide range of tax policy alternatives (Maria Cancian); (3) lessons for policy implementation, including findings on take-up, interactions with other pandemic programs, and from engagements with individuals with lived experience (Katherine Michelmore) and (4) lessons for research, including the Committee\u2019s assessment of the state of analysis of labor supply effects of the EITC and CTC, and issues related to poverty measurement (Marianne Bitler). The report, and roundtable presentation, not only review the state of the current policy literature, but also present new microsimulation results supporting an assessment of both the 2021 policy changes (CTC, EITC, and other pandemic proposals), and a large set of alternative policy proposals. \u00a0The Roundtable will include short presentations highlighting the key conclusions of the NAS Committee, with substantial time for discussion of the policy implications given current (as of November 2025) tax policy discussions, and implications for policy implementation and research.",
         "general_score": 95.0,
-        "person_score": 95.0
+        "person_score": 90.0
       },
-      "Max Ghenis": {
-        "type": "booth",
-        "location": "Exhibit Booth"
-      },
-      "Daphne Hansell": {
+      "Pavel Makarchuk": {
         "type": "booth",
         "location": "Exhibit Booth"
       }
     },
     "available_sessions": [
-      {
-        "session_id": "2257840",
-        "title": "Investigation of Policies for Increasing Children\u2019s Receipt of Medicaid-funded School-based Health Services",
-        "general_score": 65.0,
-        "scores": {
-          "max": 65.0,
-          "pavel": 65.0,
-          "daphne": 95.0
-        }
-      },
       {
         "session_id": "2259383",
         "title": "Crisis and Change: How Environmental Shocks Reshape Policy, Labor, and Land",
@@ -440,13 +395,22 @@
           "pavel": 30.0,
           "daphne": 95.0
         }
+      },
+      {
+        "session_id": "2257568",
+        "title": "Aligning Dollars with Demand: Effects of Workforce-Aligned Financial Aid on Postsecondary and Labor Market Outcomes",
+        "general_score": 20.0,
+        "scores": {
+          "max": 20.0,
+          "pavel": 20.0,
+          "daphne": 20.0
+        }
       }
     ],
     "booth_coverage": {
-      "count": 2,
+      "count": 1,
       "people": [
-        "Max Ghenis",
-        "Daphne Hansell"
+        "Pavel Makarchuk"
       ]
     }
   },
@@ -688,123 +652,6 @@
       {
         "session_id": "2270703",
         "title": "Presidential Address & Awards: Going Local: The Value of Research on Local Government Policies and Programs",
-        "general_score": 20.0,
-        "scores": {
-          "max": 20.0,
-          "pavel": 20.0,
-          "daphne": 20.0
-        }
-      }
-    ],
-    "booth_coverage": {
-      "count": 3,
-      "people": [
-        "Max Ghenis",
-        "Pavel Makarchuk",
-        "Daphne Hansell"
-      ]
-    }
-  },
-  {
-    "date": "2025-11-13",
-    "start_time": "6:30pm",
-    "end_time": "7:15pm",
-    "assignments": {
-      "Max Ghenis": {
-        "type": "booth",
-        "location": "Exhibit Booth"
-      },
-      "Pavel Makarchuk": {
-        "type": "booth",
-        "location": "Exhibit Booth"
-      },
-      "Daphne Hansell": {
-        "type": "booth",
-        "location": "Exhibit Booth"
-      }
-    },
-    "available_sessions": [
-      {
-        "session_id": "2270704",
-        "title": "Equity & Inclusion Fellowship Current Fellows Meet-Up *Invite only",
-        "general_score": 20.0,
-        "scores": {
-          "max": 20.0,
-          "pavel": 20.0,
-          "daphne": 20.0
-        }
-      }
-    ],
-    "booth_coverage": {
-      "count": 3,
-      "people": [
-        "Max Ghenis",
-        "Pavel Makarchuk",
-        "Daphne Hansell"
-      ]
-    }
-  },
-  {
-    "date": "2025-11-13",
-    "start_time": "7:00pm",
-    "end_time": "8:30pm",
-    "assignments": {
-      "Max Ghenis": {
-        "type": "booth",
-        "location": "Exhibit Booth"
-      },
-      "Pavel Makarchuk": {
-        "type": "booth",
-        "location": "Exhibit Booth"
-      },
-      "Daphne Hansell": {
-        "type": "booth",
-        "location": "Exhibit Booth"
-      }
-    },
-    "available_sessions": [
-      {
-        "session_id": "2276096",
-        "title": "Lincoln Institute of Land Policy",
-        "general_score": 30.0,
-        "scores": {
-          "max": 30.0,
-          "pavel": 30.0,
-          "daphne": 30.0
-        }
-      }
-    ],
-    "booth_coverage": {
-      "count": 3,
-      "people": [
-        "Max Ghenis",
-        "Pavel Makarchuk",
-        "Daphne Hansell"
-      ]
-    }
-  },
-  {
-    "date": "2025-11-14",
-    "start_time": "7:00am",
-    "end_time": "7:30am",
-    "assignments": {
-      "Max Ghenis": {
-        "type": "booth",
-        "location": "Exhibit Booth"
-      },
-      "Pavel Makarchuk": {
-        "type": "booth",
-        "location": "Exhibit Booth"
-      },
-      "Daphne Hansell": {
-        "type": "booth",
-        "location": "Exhibit Booth"
-      }
-    },
-    "available_sessions": [
-      {
-        "session_id": "2270717",
-        "title": "Wellness Session: HIIT *RSVP required",
         "general_score": 20.0,
         "scores": {
           "max": 20.0,
@@ -1293,8 +1140,12 @@
         "person_score": 90.0
       },
       "Pavel Makarchuk": {
-        "type": "booth",
-        "location": "Exhibit Booth"
+        "type": "session",
+        "session_id": "2269548",
+        "title": "New Methodologies for Distributional Weighting and Program Evaluation",
+        "location": "Hyatt Regency Seattle, 7th Floor, 709 - StillaguamishSession Submission Type: Paper PanelPolicy AreaMethods and Tools of AnalysisChairChenjun Yu, University of MichiganDiscussantSarah Ellen Hamersma, Syracuse UniversityIndividual PresentationsNew methodologies for distributional weighting in benefit-cost analysis - Presenting Author:  Daniel James Acland, University of California, BerkeleyCausal Inference under Asymmetric Eligibility Determination - Presenting Author:  Ryan T. Moore, American UniversityEffects of School-Based Health Interventions on Student Mental Healthcare Utilization: Evidence from Bunching Estimation - Presenting Author:  Kathryn Enriquez, Vanderbilt University; Non-Presenting Co-Author:  Carolyn J. Heinrich, Vanderbilt University; Non-Presenting Co-Author:  Carrie Fry, Vanderbilt University \u00a92025 All Academic, Inc. \u00a0 | \u00a0 Privacy PolicyDirect link:Tweet",
+        "general_score": 65.0,
+        "person_score": 65.0
       },
       "Daphne Hansell": {
         "type": "booth",
@@ -1302,16 +1153,6 @@
       }
     },
     "available_sessions": [
-      {
-        "session_id": "2269548",
-        "title": "New Methodologies for Distributional Weighting and Program Evaluation",
-        "general_score": 65.0,
-        "scores": {
-          "max": 65.0,
-          "pavel": 65.0,
-          "daphne": 65.0
-        }
-      },
       {
         "session_id": "2258116",
         "title": "The Role of Policy Design and Implementation in Shaping Energy Program Performance",
@@ -1351,12 +1192,21 @@
           "pavel": 30.0,
           "daphne": 30.0
         }
+      },
+      {
+        "session_id": "2259817",
+        "title": "Challenging Inequality through Federal, State, and Local Policy Partnerships",
+        "general_score": 30.0,
+        "scores": {
+          "max": 30.0,
+          "pavel": 30.0,
+          "daphne": 30.0
+        }
       }
     ],
     "booth_coverage": {
-      "count": 2,
+      "count": 1,
       "people": [
-        "Pavel Makarchuk",
         "Daphne Hansell"
       ]
     }
@@ -1462,11 +1312,15 @@
         "general_score": 85.0,
         "person_score": 85.0
       },
-      "Pavel Makarchuk": {
-        "type": "booth",
-        "location": "Exhibit Booth"
-      },
       "Daphne Hansell": {
+        "type": "session",
+        "session_id": "2309265",
+        "title": "Lightning Session: Health Policy & Natural Resource, Energy, and Environmental Policy",
+        "location": "Grand Hyatt Seattle, 1st Floor/Lobby Level, Portland ASession Submission Type: Lightning SessionPolicy AreaSpecial and Business EventsCosponsorsHealth PolicyNatural Resource, Energy, and Environmental PolicyIndividual PresentationsQuantifying the Enduring Health and Employment Effects of COVID-19 - Presenting Author:  Adibah Abdulhadi, The Ohio State UniversityThe Wealthier, the Healthier? Public Pension and Obesity Risks Among Older Adults in Rural China - Presenting Author:  Liu Luyang, Beijing Normal University, School of GovernmentHealth Effects of Natural Resource Extractions: Evidence from Oil-Gas Production and Infants\u2019 Birth Outcomes - Presenting Author:  Hamid Noghanibehambari, Austin Peay State University \u00a92025 All Academic, Inc. \u00a0 | \u00a0 Privacy PolicyDirect link:Tweet",
+        "general_score": 30.0,
+        "person_score": 95.0
+      },
+      "Pavel Makarchuk": {
         "type": "booth",
         "location": "Exhibit Booth"
       }
@@ -1524,10 +1378,9 @@
       }
     ],
     "booth_coverage": {
-      "count": 2,
+      "count": 1,
       "people": [
-        "Pavel Makarchuk",
-        "Daphne Hansell"
+        "Pavel Makarchuk"
       ]
     }
   },
@@ -1602,84 +1455,6 @@
       {
         "session_id": "2270706",
         "title": "Friday Poster Reception",
-        "general_score": 20.0,
-        "scores": {
-          "max": 20.0,
-          "pavel": 20.0,
-          "daphne": 20.0
-        }
-      }
-    ],
-    "booth_coverage": {
-      "count": 3,
-      "people": [
-        "Max Ghenis",
-        "Pavel Makarchuk",
-        "Daphne Hansell"
-      ]
-    }
-  },
-  {
-    "date": "2025-11-14",
-    "start_time": "6:00pm",
-    "end_time": "8:00pm",
-    "assignments": {
-      "Max Ghenis": {
-        "type": "booth",
-        "location": "Exhibit Booth"
-      },
-      "Pavel Makarchuk": {
-        "type": "booth",
-        "location": "Exhibit Booth"
-      },
-      "Daphne Hansell": {
-        "type": "booth",
-        "location": "Exhibit Booth"
-      }
-    },
-    "available_sessions": [
-      {
-        "session_id": "2290018",
-        "title": "LGBTQ+ Researchers APPAM Communities Happy Hour",
-        "general_score": 20.0,
-        "scores": {
-          "max": 20.0,
-          "pavel": 20.0,
-          "daphne": 20.0
-        }
-      }
-    ],
-    "booth_coverage": {
-      "count": 3,
-      "people": [
-        "Max Ghenis",
-        "Pavel Makarchuk",
-        "Daphne Hansell"
-      ]
-    }
-  },
-  {
-    "date": "2025-11-15",
-    "start_time": "7:00am",
-    "end_time": "7:30am",
-    "assignments": {
-      "Max Ghenis": {
-        "type": "booth",
-        "location": "Exhibit Booth"
-      },
-      "Pavel Makarchuk": {
-        "type": "booth",
-        "location": "Exhibit Booth"
-      },
-      "Daphne Hansell": {
-        "type": "booth",
-        "location": "Exhibit Booth"
-      }
-    },
-    "available_sessions": [
-      {
-        "session_id": "2270726",
-        "title": "Wellness Session: Yoga *RSVP required",
         "general_score": 20.0,
         "scores": {
           "max": 20.0,
@@ -2042,23 +1817,19 @@
     "start_time": "1:45pm",
     "end_time": "3:15pm",
     "assignments": {
-      "Pavel Makarchuk": {
-        "type": "session",
-        "session_id": "2258296",
-        "title": "New Perspectives on People and Places in the Low-Income Housing Tax Credit Program",
-        "location": "Hyatt Regency Seattle, 7th Floor, 701 - ClallumSession Submission Type: PanelAbstractFor the past forty years, the U.S. has built affordable housing primarily through the Low-Income Housing Tax Credit (LIHTC) program. In contrast to public housing and other federally-subsidized project-based programs, LIHTC properties are built in partnership with private developers, who receive tax credits in exchange for building housing affordable to low-income families. The private-public partnership aspect of the program has implications for who lives in LIHTC and where LIHTC is located. The papers in this panel bring new perspectives and data sources to understand the broader implications of LIHTC development on local contexts, residential mobility patterns, and LIHTC tenants.",
-        "general_score": 45.0,
-        "person_score": 95.0
-      },
-      "Daphne Hansell": {
+      "Max Ghenis": {
         "type": "session",
         "session_id": "2304571",
         "title": "State Responses to H.R. 1 in SNAP and Medicaid: Early Insights from Washington State",
         "location": "Hyatt Regency Seattle, 5th Floor, 501 - ChiwawaSession Submission Type: Late-Breaking RoundtableAbstractCongress passed H.R. 1 (also known as the \u201cOne Bill Beautiful Bill\u201d) on July 4, 2025. H.R. 1 expanded work requirements for those enrolled in the Supplemental Nutrition Assistance Program (SNAP) and instituted work requirements for the first time in Medicaid. By at least January 2027, work requirements will be imposed on Medicaid expansion adult enrollees 19 to 64. Starting this year, SNAP work requirements are expanding to those ages 55 to 65 and to participants responsible for caring for a dependent child aged 14 and above. The law also requires that states with higher SNAP error rates share the cost of benefits and reduces eligibility for certain noncitizens.As state agencies move toward operational changes, there are opportunities to better use current data systems to support HR1 compliance and exemption and mitigate negative impacts on Medicaid and SNAP enrollment. Through automated verification using \u2018ex-parte\u2019 processes and automated exemption for the medically frail, states could leverage already-existing data and systems to reduce the administrative burdens that their eligible populations must overcome to retain coverage. This roundtable will examine the evidence for how H.R. 1 is likely to impact SNAP and Medicaid by bringing together representatives from academia and two state agencies in Washington State to directly grapple with these challenges.The roundtable will address the following questions:What lessons can policymakers, researchers, and advocates draw from previous research and early efforts to respond to H.R. 1?How are states interpreting and planning to implement the new requirements?And what strategies are being used to reduce administrative burdens, ensure compliance, and mitigate potential coverage losses?Jeremy Barofsky (Associate Research Professor, Georgetown University, McCourt School of Public Policy, Better Government Lab) will serve as the roundtable moderator and provide policy background to ground the discussion, drawing on evidence from previous efforts to implement Medicaid work requirements and improvements in automated verification processes rolled out during Medicaid unwinding. Eric Giannella (Associate Research Professor, Georgetown University, McCourt School of Public Policy, Better Government Lab) will provide background on evidence on changes to SNAP, including the expansion of work requirements and SNAP error rates changes. We will have representatives from Washington State that will address their state\u2019s early responses to H.R. 1 in both Medicaid and SNAP. Trinity Wilson (Director of Medicaid Eligibility and Customer Service, Washington State Health Care Authority) and Carla Reyes (Assistant Secretary, Economic Services Administration) will explain how Washington State is preparing for changes to Medicaid and SNAP, respectively, and how these programs intend to work together. The roundtable will conclude by inviting audience members to participate and ask questions.Policy AreaPublic and Nonprofit Management and FinanceSecondary Policy AreaPoverty and Income PolicyModeratorJeremy Barofsky, Georgetown UniversityOrganizerJeremy Barofsky, Georgetown UniversitySpeakersEric Giannella, Georgetown UniversityCarla Reyes, Washington State Department of Social and Health ServicesTrinity Wilson, WA State Healthcare Authority \u00a92025 All Academic, Inc. \u00a0 | \u00a0 Privacy PolicyDirect link:Tweet",
         "general_score": 70.0,
-        "person_score": 95.0
+        "person_score": 70.0
       },
-      "Max Ghenis": {
+      "Pavel Makarchuk": {
+        "type": "booth",
+        "location": "Exhibit Booth"
+      },
+      "Daphne Hansell": {
         "type": "booth",
         "location": "Exhibit Booth"
       }
@@ -2085,6 +1856,16 @@
         }
       },
       {
+        "session_id": "2258296",
+        "title": "New Perspectives on People and Places in the Low-Income Housing Tax Credit Program",
+        "general_score": 45.0,
+        "scores": {
+          "max": 55.0,
+          "pavel": 95.0,
+          "daphne": 45.0
+        }
+      },
+      {
         "session_id": "2258172",
         "title": "Living Evidence: Bridging the Evidence-to-Policy Gap by Accelerating Knowledge Synthesis",
         "general_score": 30.0,
@@ -2103,22 +1884,13 @@
           "pavel": 30.0,
           "daphne": 30.0
         }
-      },
-      {
-        "session_id": "2258770",
-        "title": "Policy Pathways in Energy and Aviation Transitions",
-        "general_score": 30.0,
-        "scores": {
-          "max": 30.0,
-          "pavel": 30.0,
-          "daphne": 30.0
-        }
       }
     ],
     "booth_coverage": {
-      "count": 1,
+      "count": 2,
       "people": [
-        "Max Ghenis"
+        "Pavel Makarchuk",
+        "Daphne Hansell"
       ]
     }
   },
@@ -2245,7 +2017,7 @@
         "general_score": 65.0,
         "scores": {
           "max": 65.0,
-          "pavel": 65.0,
+          "pavel": 70.0,
           "daphne": 95.0
         }
       },

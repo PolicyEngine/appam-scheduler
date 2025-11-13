@@ -14,11 +14,22 @@ class OptimalScheduler:
         self.db_path = db_path
         self.people = ['Max Ghenis', 'Pavel Makarchuk', 'Daphne Hansell']
 
-        # Arrival constraints
-        self.arrival_times = {
-            'Max Ghenis': ('2025-11-13', '11:30am'),
-            'Pavel Makarchuk': None,
-            'Daphne Hansell': None
+        # Availability constraints
+        # Max arrives 11:30am Thursday, only one there Saturday
+        # Pavel & Daphne depart after Friday
+        self.availability = {
+            'Max Ghenis': {
+                'start': ('2025-11-13', '11:30am'),
+                'end': None  # Through Saturday
+            },
+            'Pavel Makarchuk': {
+                'start': None,  # Available from conference start
+                'end': ('2025-11-15', '7:00am')  # Leaves Friday evening
+            },
+            'Daphne Hansell': {
+                'start': None,  # Available from conference start
+                'end': ('2025-11-15', '7:00am')  # Leaves Friday evening
+            }
         }
 
         # Lunch break times (prefer at least one person free for lunch)
@@ -43,19 +54,31 @@ class OptimalScheduler:
         }
 
     def is_available(self, person, date, start_time):
-        """Check if person is available."""
-        if self.arrival_times.get(person) is None:
-            return True
-
+        """Check if person is available for this date/time."""
         from datetime import datetime
-        arrival_date, arrival_time = self.arrival_times[person]
 
         try:
             session_dt = datetime.strptime(f"{date} {start_time}", "%Y-%m-%d %I:%M%p")
-            arrival_dt = datetime.strptime(f"{arrival_date} {arrival_time}", "%Y-%m-%d %I:%M%p")
-            return session_dt >= arrival_dt
         except:
             return True
+
+        constraints = self.availability.get(person, {})
+
+        # Check start constraint
+        if constraints.get('start'):
+            arrival_date, arrival_time = constraints['start']
+            arrival_dt = datetime.strptime(f"{arrival_date} {arrival_time}", "%Y-%m-%d %I:%M%p")
+            if session_dt < arrival_dt:
+                return False
+
+        # Check end constraint
+        if constraints.get('end'):
+            depart_date, depart_time = constraints['end']
+            depart_dt = datetime.strptime(f"{depart_date} {depart_time}", "%Y-%m-%d %I:%M%p")
+            if session_dt >= depart_dt:
+                return False
+
+        return True
 
     def get_time_slots(self):
         """Get all unique time slots."""
@@ -111,9 +134,16 @@ class OptimalScheduler:
         people_at_booth = num_available - people_at_sessions
 
         # Booth value - context aware based on who's available
-        if num_available < 3:
-            # Max not there yet - different booth requirements
-            # With only 2 people, having 1 at booth is perfectly fine
+        if num_available == 1:
+            # Only one person available (e.g., Saturday - only Max)
+            # Must choose: booth OR session
+            booth_value_map = {
+                0: -50,   # Empty booth - acceptable for high-value sessions
+                1: 0      # At booth - fine but missing sessions
+            }
+            booth_val = booth_value_map.get(people_at_booth, 0)
+        elif num_available == 2:
+            # 2 people available (e.g., Thursday morning before Max)
             booth_value_map = {
                 0: -500,  # Not ideal but less severe penalty
                 1: 0,     # Good - requirement met

@@ -1,11 +1,11 @@
 {
   "total_sessions": 453,
-  "assigned_sessions": 57,
+  "assigned_sessions": 14,
   "high_value_sessions": 3,
   "per_person": {
-    "Daphne Hansell": 12,
-    "Max Ghenis": 29,
-    "Pavel Makarchuk": 16
+    "Daphne Hansell": 5,
+    "Max Ghenis": 6,
+    "Pavel Makarchuk": 3
   },
   "total_presenters": 66,
   "total_locations": 459
