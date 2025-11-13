@@ -30,15 +30,16 @@ class OptimalScheduler:
         ]
 
         # Booth value by number of people staffing it
-        # 0 people = -100 (unacceptable)
-        # 1 person = 0 (baseline - requirement met)
-        # 2 people = +20 (some networking value, but could be at sessions)
-        # 3 people = +25 (minimal additional value)
+        # Steep diminishing returns to encourage session attendance
+        # 0 people = -1000 (unacceptable - must have someone)
+        # 1 person = 0 (baseline - requirement met, perfectly fine)
+        # 2 people = +5 (very small bonus - marginal value)
+        # 3 people = +5 (almost no additional value - wasteful)
         self.booth_value = {
             0: -1000,  # NEVER allow empty booth
             1: 0,      # Baseline - requirement met
-            2: 20,     # Some value (can engage visitors better)
-            3: 25      # Minimal additional value (overkill)
+            2: 5,      # Tiny bonus - could be at sessions instead
+            3: 5       # No additional value - should be at sessions
         }
 
     def is_available(self, person, date, start_time):
@@ -91,7 +92,7 @@ class OptimalScheduler:
         conn.close()
         return sessions
 
-    def calculate_slot_value(self, slot_assignment):
+    def calculate_slot_value(self, slot_assignment, date, start_time):
         """
         Calculate total value for a time slot assignment.
 
@@ -101,12 +102,27 @@ class OptimalScheduler:
             'Daphne Hansell': session_dict or None
         }
         """
+        # Count how many people are actually available for this slot
+        available_people = [p for p in self.people if self.is_available(p, date, start_time)]
+        num_available = len(available_people)
+
         # Count people at booth vs sessions
         people_at_sessions = sum(1 for s in slot_assignment.values() if s is not None)
-        people_at_booth = 3 - people_at_sessions
+        people_at_booth = num_available - people_at_sessions
 
-        # Booth value
-        booth_val = self.booth_value[people_at_booth]
+        # Booth value - context aware based on who's available
+        if num_available < 3:
+            # Max not there yet - different booth requirements
+            # With only 2 people, having 1 at booth is perfectly fine
+            booth_value_map = {
+                0: -500,  # Not ideal but less severe penalty
+                1: 0,     # Good - requirement met
+                2: 5      # Both at booth - fine but consider sessions
+            }
+            booth_val = booth_value_map.get(people_at_booth, 0)
+        else:
+            # Normal operation - all 3 available
+            booth_val = self.booth_value.get(people_at_booth, 0)
 
         # Session attendance value
         session_val = 0
@@ -124,7 +140,8 @@ class OptimalScheduler:
             'booth_value': booth_val,
             'session_value': session_val,
             'people_at_booth': people_at_booth,
-            'people_at_sessions': people_at_sessions
+            'people_at_sessions': people_at_sessions,
+            'num_available': num_available
         }
 
     def assign_slot_optimal(self, date, start_time, end_time, sessions):
@@ -154,7 +171,7 @@ class OptimalScheduler:
 
         # Option 1: Everyone at booth (valid but low value if good sessions exist)
         assignment = {p: None for p in self.people}
-        value = self.calculate_slot_value(assignment)
+        value = self.calculate_slot_value(assignment, date, start_time)
         if value['total'] > best_value['total']:
             best_assignment = assignment.copy()
             best_value = value
@@ -169,7 +186,7 @@ class OptimalScheduler:
                 assignment = {p: None for p in self.people}
                 assignment[person] = best_session
 
-                value = self.calculate_slot_value(assignment)
+                value = self.calculate_slot_value(assignment, date, start_time)
                 if value['total'] > best_value['total']:
                     best_assignment = assignment.copy()
                     best_value = value
@@ -192,7 +209,7 @@ class OptimalScheduler:
                                          key=lambda s: s.get(person_key, s.get('general_score', 0)))
                         assignment[person] = best_session
 
-                value = self.calculate_slot_value(assignment)
+                value = self.calculate_slot_value(assignment, date, start_time)
                 if value['total'] > best_value['total']:
                     best_assignment = assignment.copy()
                     best_value = value
