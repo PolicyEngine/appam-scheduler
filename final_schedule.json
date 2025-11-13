@@ -1,0 +1,78 @@
+{
+  "multi_person_sessions": [
+    {
+      "session_id": "2258530",
+      "title": "CTC and EITC Impacts on Child Poverty: NAS Review",
+      "date": "2025-11-13",
+      "time": "1:45pm-3:15pm",
+      "attendees": ["Max Ghenis", "Pavel Makarchuk"],
+      "at_booth": ["Daphne Hansell"],
+      "general_score": 95,
+      "rationale": "Both Max and Pavel should attend - top tax credit session with microsimulation results"
+    },
+    {
+      "session_id": "2260094",
+      "title": "Poverty Measurement: New Advances, Insights and Policy Implications",
+      "date": "2025-11-15",
+      "time": "10:15am-11:45am",
+      "attendees": ["Max Ghenis", "Pavel Makarchuk", "Daphne Hansell"],
+      "at_booth": [],
+      "general_score": 95,
+      "rationale": "HIGHEST VALUE - All three should attend. Empty booth acceptable for this session."
+    },
+    {
+      "session_id": "2257105",
+      "title": "Examining the Reach and Impact of Tax Credits and Transfers",
+      "date": "2025-11-14",
+      "time": "1:45pm-3:15pm",
+      "attendees": ["Max Ghenis", "Pavel Makarchuk"],
+      "at_booth": ["Daphne Hansell"],
+      "general_score": 80,
+      "rationale": "Tax policy focus - both Max and Pavel valuable"
+    }
+  ],
+
+  "Max Ghenis": {
+    "total_sessions": 5,
+    "booth_shifts": "Thu 10:15am, Fri 10:15am, Fri 8:30am, Sat 1:45pm, Sat 3:30pm",
+    "sessions": [
+      {"date": "2025-11-13", "time": "1:45pm", "title": "CTC and EITC Impacts", "score": 95, "with": "Pavel"},
+      {"date": "2025-11-14", "time": "1:45pm", "title": "Tax Credits & Transfers", "score": 80, "with": "Pavel"},
+      {"date": "2025-11-14", "time": "3:30pm", "title": "SNAP Work Requirements", "score": 85, "solo": true},
+      {"date": "2025-11-15", "time": "8:30am", "title": "Understanding SNAP's Reach", "score": 70, "solo": true},
+      {"date": "2025-11-15", "time": "10:15am", "title": "Poverty Measurement", "score": 95, "with": "Pavel + Daphne"}
+    ]
+  },
+
+  "Pavel Makarchuk": {
+    "total_sessions": 5,
+    "booth_shifts": "Thu 8:30am, Thu 1:45pm (backup), Fri 3:30pm, Sat 3:30pm",
+    "sessions": [
+      {"date": "2025-11-13", "time": "10:15am", "title": "Tax Policy and Politics", "score": 70, "solo": true},
+      {"date": "2025-11-13", "time": "1:45pm", "title": "CTC and EITC Impacts", "score": 95, "with": "Max"},
+      {"date": "2025-11-14", "time": "8:30am", "title": "SNAP/WIC Access", "score": 70, "solo": true},
+      {"date": "2025-11-14", "time": "1:45pm", "title": "Tax Credits & Transfers", "score": 80, "with": "Max"},
+      {"date": "2025-11-15", "time": "10:15am", "title": "Poverty Measurement", "score": 95, "with": "Max + Daphne"}
+    ]
+  },
+
+  "Daphne Hansell": {
+    "total_sessions": 5,
+    "booth_shifts": "Thu 1:45pm, Fri 1:45pm, Sat 8:30am",
+    "sessions": [
+      {"date": "2025-11-13", "time": "8:30am", "title": "Medicaid Dental Benefits", "score": 65, "solo": true},
+      {"date": "2025-11-13", "time": "10:15am", "title": "Big Data ML in Health Care", "score": 50, "solo": true},
+      {"date": "2025-11-14", "time": "10:15am", "title": "Access to Health Care", "score": 65, "solo": true},
+      {"date": "2025-11-15", "time": "10:15am", "title": "Poverty Measurement", "score": 95, "with": "Max + Pavel"},
+      {"date": "2025-11-15", "time": "1:45pm", "title": "State SNAP/Medicaid H.R.1", "score": 70, "solo": true}
+    ]
+  },
+
+  "summary": {
+    "total_team_sessions": 12,
+    "multi_person_sessions": 3,
+    "unique_time_slots_covered": 9,
+    "booth_coverage": "Always at least 1 person at booth, except Sat 10:15am (all at Poverty Measurement)",
+    "lunch_breaks": "12:00-1:30pm clear each day - only 1 low-priority session per day during lunch"
+  }
+}
